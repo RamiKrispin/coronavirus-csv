@@ -13,7 +13,6 @@
 2020-01-31,"South","MOL",0
 2020-01-31,"North-West","PIE",0
 2020-01-31,"South","PUG",0
-2020-01-31,NA,"recovery_total",0
 2020-01-31,"Islands","SAR",0
 2020-01-31,"Islands","SIC",0
 2020-01-31,"North-East","TN",0
@@ -35,7 +34,6 @@
 2020-02-06,"South","MOL",0
 2020-02-06,"North-West","PIE",0
 2020-02-06,"South","PUG",0
-2020-02-06,NA,"recovery_total",0
 2020-02-06,"Islands","SAR",0
 2020-02-06,"Islands","SIC",0
 2020-02-06,"North-East","TN",0
@@ -57,7 +55,6 @@
 2020-02-21,"South","MOL",0
 2020-02-21,"North-West","PIE",0
 2020-02-21,"South","PUG",0
-2020-02-21,NA,"recovery_total",0
 2020-02-21,"Islands","SAR",0
 2020-02-21,"Islands","SIC",0
 2020-02-21,"North-East","TN",0
@@ -79,7 +76,6 @@
 2020-02-22,"South","MOL",0
 2020-02-22,"North-West","PIE",1
 2020-02-22,"South","PUG",0
-2020-02-22,NA,"recovery_total",0
 2020-02-22,"Islands","SAR",0
 2020-02-22,"Islands","SIC",0
 2020-02-22,"North-East","TN",0
@@ -101,7 +97,6 @@
 2020-02-23,"South","MOL",0
 2020-02-23,"North-West","PIE",2
 2020-02-23,"South","PUG",0
-2020-02-23,NA,"recovery_total",0
 2020-02-23,"Islands","SAR",0
 2020-02-23,"Islands","SIC",0
 2020-02-23,"North-East","TN",0
@@ -123,7 +118,6 @@
 2020-02-24,"South","MOL",0
 2020-02-24,"North-West","PIE",0
 2020-02-24,"South","PUG",0
-2020-02-24,NA,"recovery_total",1
 2020-02-24,"Islands","SAR",0
 2020-02-24,"Islands","SIC",0
 2020-02-24,"North-East","TN",0
@@ -145,7 +139,6 @@
 2020-02-25,"South","MOL",0
 2020-02-25,"North-West","PIE",0
 2020-02-25,"South","PUG",0
-2020-02-25,NA,"recovery_total",1
 2020-02-25,"Islands","SAR",0
 2020-02-25,"Islands","SIC",3
 2020-02-25,"North-East","TN",0
@@ -167,7 +160,6 @@
 2020-02-26,"South","MOL",0
 2020-02-26,"North-West","PIE",0
 2020-02-26,"South","PUG",0
-2020-02-26,NA,"recovery_total",3
 2020-02-26,"Islands","SAR",0
 2020-02-26,"Islands","SIC",0
 2020-02-26,"North-East","TN",0
@@ -189,7 +181,6 @@
 2020-02-27,"South","MOL",0
 2020-02-27,"North-West","PIE",1
 2020-02-27,"South","PUG",1
-2020-02-27,NA,"recovery_total",45
 2020-02-27,"Islands","SAR",0
 2020-02-27,"Islands","SIC",1
 2020-02-27,"North-East","TN",0
@@ -211,7 +202,6 @@
 2020-02-28,"South","MOL",0
 2020-02-28,"North-West","PIE",9
 2020-02-28,"South","PUG",2
-2020-02-28,NA,"recovery_total",46
 2020-02-28,"Islands","SAR",0
 2020-02-28,"Islands","SIC",0
 2020-02-28,"North-East","TN",0
@@ -233,7 +223,6 @@
 2020-02-29,"South","MOL",0
 2020-02-29,"North-West","PIE",0
 2020-02-29,"South","PUG",0
-2020-02-29,NA,"recovery_total",50
 2020-02-29,"Islands","SAR",0
 2020-02-29,"Islands","SIC",0
 2020-02-29,"North-East","TN",0
@@ -255,7 +244,6 @@
 2020-03-01,"South","MOL",0
 2020-03-01,"North-West","PIE",38
 2020-03-01,"South","PUG",0
-2020-03-01,NA,"recovery_total",83
 2020-03-01,"Islands","SAR",0
 2020-03-01,"Islands","SIC",5
 2020-03-01,"North-East","TN",0
@@ -277,7 +265,6 @@
 2020-03-02,"South","MOL",0
 2020-03-02,"North-West","PIE",2
 2020-03-02,"South","PUG",1
-2020-03-02,NA,"recovery_total",149
 2020-03-02,"Islands","SAR",0
 2020-03-02,"Islands","SIC",0
 2020-03-02,"North-East","TN",0
@@ -299,7 +286,6 @@
 2020-03-03,"South","MOL",3
 2020-03-03,"North-West","PIE",5
 2020-03-03,"South","PUG",2
-2020-03-03,NA,"recovery_total",160
 2020-03-03,"Islands","SAR",1
 2020-03-03,"Islands","SIC",0
 2020-03-03,"North-East","TN",4
@@ -321,7 +307,6 @@
 2020-03-04,"South","MOL",0
 2020-03-04,"North-West","PIE",26
 2020-03-04,"South","PUG",3
-2020-03-04,NA,"recovery_total",276
 2020-03-04,"Islands","SAR",1
 2020-03-04,"Islands","SIC",11
 2020-03-04,"North-East","TN",1
@@ -343,7 +328,6 @@
 2020-03-05,"South","MOL",4
 2020-03-05,"North-West","PIE",26
 2020-03-05,"South","PUG",5
-2020-03-05,NA,"recovery_total",414
 2020-03-05,"Islands","SAR",0
 2020-03-05,"Islands","SIC",0
 2020-03-05,"North-East","TN",2
@@ -365,7 +349,6 @@
 2020-03-06,"South","MOL",5
 2020-03-06,"North-West","PIE",35
 2020-03-06,"South","PUG",3
-2020-03-06,NA,"recovery_total",523
 2020-03-06,"Islands","SAR",3
 2020-03-06,"Islands","SIC",6
 2020-03-06,"North-East","TN",3
@@ -387,7 +370,6 @@
 2020-03-07,"South","MOL",2
 2020-03-07,"North-West","PIE",64
 2020-03-07,"South","PUG",9
-2020-03-07,NA,"recovery_total",589
 2020-03-07,"Islands","SAR",0
 2020-03-07,"Islands","SIC",11
 2020-03-07,"North-East","TN",4
@@ -409,7 +391,6 @@
 2020-03-08,"South","MOL",0
 2020-03-08,"North-West","PIE",153
 2020-03-08,"South","PUG",14
-2020-03-08,NA,"recovery_total",622
 2020-03-08,"Islands","SAR",6
 2020-03-08,"Islands","SIC",18
 2020-03-08,"North-East","TN",9
@@ -431,7 +412,6 @@
 2020-03-09,"South","MOL",0
 2020-03-09,"North-West","PIE",0
 2020-03-09,"South","PUG",10
-2020-03-09,NA,"recovery_total",724
 2020-03-09,"Islands","SAR",8
 2020-03-09,"Islands","SIC",1
 2020-03-09,"North-East","TN",10
@@ -453,7 +433,6 @@
 2020-03-10,"South","MOL",1
 2020-03-10,"North-West","PIE",103
 2020-03-10,"South","PUG",9
-2020-03-10,NA,"recovery_total",1004
 2020-03-10,"Islands","SAR",1
 2020-03-10,"Islands","SIC",8
 2020-03-10,"North-East","TN",19
@@ -461,3 +440,24 @@
 2020-03-10,"Center","UMB",9
 2020-03-10,"North-West","VDA",2
 2020-03-10,"North-East","VEN",112
+2020-03-11,"South","ABR",0
+2020-03-11,"South","BAS",1
+2020-03-11,"North-East","BZ",37
+2020-03-11,"South","CAL",6
+2020-03-11,"South","CAM",27
+2020-03-11,"North-East","EMR",206
+2020-03-11,"North-East","FVG",10
+2020-03-11,"Center","LAZ",34
+2020-03-11,"North-West","LIG",53
+2020-03-11,"North-West","LOM",1489
+2020-03-11,"Center","MAR",85
+2020-03-11,"South","MOL",1
+2020-03-11,"North-West","PIE",48
+2020-03-11,"South","PUG",18
+2020-03-11,"Islands","SAR",17
+2020-03-11,"Islands","SIC",21
+2020-03-11,"North-East","TN",25
+2020-03-11,"Center","TOS",56
+2020-03-11,"Center","UMB",9
+2020-03-11,"North-West","VDA",3
+2020-03-11,"North-East","VEN",167
