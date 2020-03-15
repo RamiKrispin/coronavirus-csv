@@ -1,4 +1,4 @@
-"date","region","Qom","Teh","Maz","Alb","Sem","Gol","Qaz","Esf","Frs","Hor","Koh","Cha","Bus","Gil","Ard","Azs","Azg","Kur","Zan","Mar","Ham","Khz","Krs","Lor","Ilm","Khr","Sis","Yaz","Khs","Ker","Khn"
+"date","region","Qom","Tehran","Mazandaran","Alborz","Semnan","Golestan","Qazvin","Esfahan","Fars","Hormozgan","Kohgiluyeh and Buyer Ahmad","Chahar Mahall and Bakhtiari","Bushehr","Gilan","Ardebil","East Azarbaijan","West Azarbaijan","Kordestan","Zanjan","Markazi","Hamadan","Khuzestan","Kermanshah","Lorestan","Ilam","Razavi Khorasan","Sistan and Baluchestan","Yazd","South Khorasan","Kerman","North Khorasan"
 2020-02-19,"Region 1",2,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2020-02-19,"Region 2",NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2020-02-19,"Region 3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -119,3 +119,8 @@
 2020-03-13,"Region 3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,71,15,97,25,9,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2020-03-13,"Region 4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,10,15,15,25,8,NA,NA,NA,NA,NA,NA
 2020-03-13,"Region 5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,110,2,46,0,12,0
+2020-03-14,"Region 1",32,347,17,134,47,0,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-03-14,"Region 2",NA,NA,NA,NA,NA,NA,NA,155,11,0,0,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-03-14,"Region 3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,113,33,59,31,5,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-03-14,"Region 4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,115,7,48,8,2,6,NA,NA,NA,NA,NA,NA
+2020-03-14,"Region 5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,2,73,4,0,1

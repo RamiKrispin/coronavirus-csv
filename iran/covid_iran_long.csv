@@ -1,745 +1,776 @@
 "date","region","province","cases"
 2020-02-19,"Region 1","Qom",2
-2020-02-19,"Region 1","Teh",0
-2020-02-19,"Region 1","Maz",0
-2020-02-19,"Region 1","Alb",0
-2020-02-19,"Region 1","Sem",0
-2020-02-19,"Region 1","Gol",0
-2020-02-19,"Region 1","Qaz",0
-2020-02-19,"Region 2","Esf",0
-2020-02-19,"Region 2","Frs",0
-2020-02-19,"Region 2","Hor",0
-2020-02-19,"Region 2","Koh",0
-2020-02-19,"Region 2","Cha",0
-2020-02-19,"Region 2","Bus",0
-2020-02-19,"Region 3","Gil",0
-2020-02-19,"Region 3","Ard",0
-2020-02-19,"Region 3","Azs",0
-2020-02-19,"Region 3","Azg",0
-2020-02-19,"Region 3","Kur",0
-2020-02-19,"Region 3","Zan",0
-2020-02-19,"Region 4","Mar",0
-2020-02-19,"Region 4","Ham",0
-2020-02-19,"Region 4","Khz",0
-2020-02-19,"Region 4","Krs",0
-2020-02-19,"Region 4","Lor",0
-2020-02-19,"Region 4","Ilm",0
-2020-02-19,"Region 5","Khr",0
-2020-02-19,"Region 5","Sis",0
-2020-02-19,"Region 5","Yaz",0
-2020-02-19,"Region 5","Khs",0
-2020-02-19,"Region 5","Ker",0
-2020-02-19,"Region 5","Khn",0
+2020-02-19,"Region 1","Tehran",0
+2020-02-19,"Region 1","Mazandaran",0
+2020-02-19,"Region 1","Alborz",0
+2020-02-19,"Region 1","Semnan",0
+2020-02-19,"Region 1","Golestan",0
+2020-02-19,"Region 1","Qazvin",0
+2020-02-19,"Region 2","Esfahan",0
+2020-02-19,"Region 2","Fars",0
+2020-02-19,"Region 2","Hormozgan",0
+2020-02-19,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-19,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-19,"Region 2","Bushehr",0
+2020-02-19,"Region 3","Gilan",0
+2020-02-19,"Region 3","Ardebil",0
+2020-02-19,"Region 3","East Azarbaijan",0
+2020-02-19,"Region 3","West Azarbaijan",0
+2020-02-19,"Region 3","Kordestan",0
+2020-02-19,"Region 3","Zanjan",0
+2020-02-19,"Region 4","Markazi",0
+2020-02-19,"Region 4","Hamadan",0
+2020-02-19,"Region 4","Khuzestan",0
+2020-02-19,"Region 4","Kermanshah",0
+2020-02-19,"Region 4","Lorestan",0
+2020-02-19,"Region 4","Ilam",0
+2020-02-19,"Region 5","Razavi Khorasan",0
+2020-02-19,"Region 5","Sistan and Baluchestan",0
+2020-02-19,"Region 5","Yazd",0
+2020-02-19,"Region 5","South Khorasan",0
+2020-02-19,"Region 5","Kerman",0
+2020-02-19,"Region 5","North Khorasan",0
 2020-02-20,"Region 1","Qom",2
-2020-02-20,"Region 1","Teh",0
-2020-02-20,"Region 1","Maz",0
-2020-02-20,"Region 1","Alb",0
-2020-02-20,"Region 1","Sem",0
-2020-02-20,"Region 1","Gol",0
-2020-02-20,"Region 1","Qaz",0
-2020-02-20,"Region 2","Esf",0
-2020-02-20,"Region 2","Frs",0
-2020-02-20,"Region 2","Hor",0
-2020-02-20,"Region 2","Koh",0
-2020-02-20,"Region 2","Cha",0
-2020-02-20,"Region 2","Bus",0
-2020-02-20,"Region 3","Gil",0
-2020-02-20,"Region 3","Ard",0
-2020-02-20,"Region 3","Azs",0
-2020-02-20,"Region 3","Azg",0
-2020-02-20,"Region 3","Kur",0
-2020-02-20,"Region 3","Zan",0
-2020-02-20,"Region 4","Mar",1
-2020-02-20,"Region 4","Ham",0
-2020-02-20,"Region 4","Khz",0
-2020-02-20,"Region 4","Krs",0
-2020-02-20,"Region 4","Lor",0
-2020-02-20,"Region 4","Ilm",0
-2020-02-20,"Region 5","Khr",0
-2020-02-20,"Region 5","Sis",0
-2020-02-20,"Region 5","Yaz",0
-2020-02-20,"Region 5","Khs",0
-2020-02-20,"Region 5","Ker",0
-2020-02-20,"Region 5","Khn",0
+2020-02-20,"Region 1","Tehran",0
+2020-02-20,"Region 1","Mazandaran",0
+2020-02-20,"Region 1","Alborz",0
+2020-02-20,"Region 1","Semnan",0
+2020-02-20,"Region 1","Golestan",0
+2020-02-20,"Region 1","Qazvin",0
+2020-02-20,"Region 2","Esfahan",0
+2020-02-20,"Region 2","Fars",0
+2020-02-20,"Region 2","Hormozgan",0
+2020-02-20,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-20,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-20,"Region 2","Bushehr",0
+2020-02-20,"Region 3","Gilan",0
+2020-02-20,"Region 3","Ardebil",0
+2020-02-20,"Region 3","East Azarbaijan",0
+2020-02-20,"Region 3","West Azarbaijan",0
+2020-02-20,"Region 3","Kordestan",0
+2020-02-20,"Region 3","Zanjan",0
+2020-02-20,"Region 4","Markazi",1
+2020-02-20,"Region 4","Hamadan",0
+2020-02-20,"Region 4","Khuzestan",0
+2020-02-20,"Region 4","Kermanshah",0
+2020-02-20,"Region 4","Lorestan",0
+2020-02-20,"Region 4","Ilam",0
+2020-02-20,"Region 5","Razavi Khorasan",0
+2020-02-20,"Region 5","Sistan and Baluchestan",0
+2020-02-20,"Region 5","Yazd",0
+2020-02-20,"Region 5","South Khorasan",0
+2020-02-20,"Region 5","Kerman",0
+2020-02-20,"Region 5","North Khorasan",0
 2020-02-21,"Region 1","Qom",7
-2020-02-21,"Region 1","Teh",4
-2020-02-21,"Region 1","Maz",0
-2020-02-21,"Region 1","Alb",0
-2020-02-21,"Region 1","Sem",0
-2020-02-21,"Region 1","Gol",0
-2020-02-21,"Region 1","Qaz",0
-2020-02-21,"Region 2","Esf",0
-2020-02-21,"Region 2","Frs",0
-2020-02-21,"Region 2","Hor",0
-2020-02-21,"Region 2","Koh",0
-2020-02-21,"Region 2","Cha",0
-2020-02-21,"Region 2","Bus",0
-2020-02-21,"Region 3","Gil",2
-2020-02-21,"Region 3","Ard",0
-2020-02-21,"Region 3","Azs",0
-2020-02-21,"Region 3","Azg",0
-2020-02-21,"Region 3","Kur",0
-2020-02-21,"Region 3","Zan",0
-2020-02-21,"Region 4","Mar",0
-2020-02-21,"Region 4","Ham",0
-2020-02-21,"Region 4","Khz",0
-2020-02-21,"Region 4","Krs",0
-2020-02-21,"Region 4","Lor",0
-2020-02-21,"Region 4","Ilm",0
-2020-02-21,"Region 5","Khr",0
-2020-02-21,"Region 5","Sis",0
-2020-02-21,"Region 5","Yaz",0
-2020-02-21,"Region 5","Khs",0
-2020-02-21,"Region 5","Ker",0
-2020-02-21,"Region 5","Khn",0
+2020-02-21,"Region 1","Tehran",4
+2020-02-21,"Region 1","Mazandaran",0
+2020-02-21,"Region 1","Alborz",0
+2020-02-21,"Region 1","Semnan",0
+2020-02-21,"Region 1","Golestan",0
+2020-02-21,"Region 1","Qazvin",0
+2020-02-21,"Region 2","Esfahan",0
+2020-02-21,"Region 2","Fars",0
+2020-02-21,"Region 2","Hormozgan",0
+2020-02-21,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-21,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-21,"Region 2","Bushehr",0
+2020-02-21,"Region 3","Gilan",2
+2020-02-21,"Region 3","Ardebil",0
+2020-02-21,"Region 3","East Azarbaijan",0
+2020-02-21,"Region 3","West Azarbaijan",0
+2020-02-21,"Region 3","Kordestan",0
+2020-02-21,"Region 3","Zanjan",0
+2020-02-21,"Region 4","Markazi",0
+2020-02-21,"Region 4","Hamadan",0
+2020-02-21,"Region 4","Khuzestan",0
+2020-02-21,"Region 4","Kermanshah",0
+2020-02-21,"Region 4","Lorestan",0
+2020-02-21,"Region 4","Ilam",0
+2020-02-21,"Region 5","Razavi Khorasan",0
+2020-02-21,"Region 5","Sistan and Baluchestan",0
+2020-02-21,"Region 5","Yazd",0
+2020-02-21,"Region 5","South Khorasan",0
+2020-02-21,"Region 5","Kerman",0
+2020-02-21,"Region 5","North Khorasan",0
 2020-02-22,"Region 1","Qom",8
-2020-02-22,"Region 1","Teh",2
-2020-02-22,"Region 1","Maz",0
-2020-02-22,"Region 1","Alb",0
-2020-02-22,"Region 1","Sem",0
-2020-02-22,"Region 1","Gol",0
-2020-02-22,"Region 1","Qaz",0
-2020-02-22,"Region 2","Esf",0
-2020-02-22,"Region 2","Frs",0
-2020-02-22,"Region 2","Hor",0
-2020-02-22,"Region 2","Koh",0
-2020-02-22,"Region 2","Cha",0
-2020-02-22,"Region 2","Bus",0
-2020-02-22,"Region 3","Gil",0
-2020-02-22,"Region 3","Ard",0
-2020-02-22,"Region 3","Azs",0
-2020-02-22,"Region 3","Azg",0
-2020-02-22,"Region 3","Kur",0
-2020-02-22,"Region 3","Zan",0
-2020-02-22,"Region 4","Mar",0
-2020-02-22,"Region 4","Ham",0
-2020-02-22,"Region 4","Khz",0
-2020-02-22,"Region 4","Krs",0
-2020-02-22,"Region 4","Lor",0
-2020-02-22,"Region 4","Ilm",0
-2020-02-22,"Region 5","Khr",0
-2020-02-22,"Region 5","Sis",0
-2020-02-22,"Region 5","Yaz",0
-2020-02-22,"Region 5","Khs",0
-2020-02-22,"Region 5","Ker",0
-2020-02-22,"Region 5","Khn",0
+2020-02-22,"Region 1","Tehran",2
+2020-02-22,"Region 1","Mazandaran",0
+2020-02-22,"Region 1","Alborz",0
+2020-02-22,"Region 1","Semnan",0
+2020-02-22,"Region 1","Golestan",0
+2020-02-22,"Region 1","Qazvin",0
+2020-02-22,"Region 2","Esfahan",0
+2020-02-22,"Region 2","Fars",0
+2020-02-22,"Region 2","Hormozgan",0
+2020-02-22,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-22,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-22,"Region 2","Bushehr",0
+2020-02-22,"Region 3","Gilan",0
+2020-02-22,"Region 3","Ardebil",0
+2020-02-22,"Region 3","East Azarbaijan",0
+2020-02-22,"Region 3","West Azarbaijan",0
+2020-02-22,"Region 3","Kordestan",0
+2020-02-22,"Region 3","Zanjan",0
+2020-02-22,"Region 4","Markazi",0
+2020-02-22,"Region 4","Hamadan",0
+2020-02-22,"Region 4","Khuzestan",0
+2020-02-22,"Region 4","Kermanshah",0
+2020-02-22,"Region 4","Lorestan",0
+2020-02-22,"Region 4","Ilam",0
+2020-02-22,"Region 5","Razavi Khorasan",0
+2020-02-22,"Region 5","Sistan and Baluchestan",0
+2020-02-22,"Region 5","Yazd",0
+2020-02-22,"Region 5","South Khorasan",0
+2020-02-22,"Region 5","Kerman",0
+2020-02-22,"Region 5","North Khorasan",0
 2020-02-23,"Region 1","Qom",7
-2020-02-23,"Region 1","Teh",4
-2020-02-23,"Region 1","Maz",1
-2020-02-23,"Region 1","Alb",0
-2020-02-23,"Region 1","Sem",0
-2020-02-23,"Region 1","Gol",0
-2020-02-23,"Region 1","Qaz",0
-2020-02-23,"Region 2","Esf",0
-2020-02-23,"Region 2","Frs",0
-2020-02-23,"Region 2","Hor",0
-2020-02-23,"Region 2","Koh",0
-2020-02-23,"Region 2","Cha",0
-2020-02-23,"Region 2","Bus",0
-2020-02-23,"Region 3","Gil",2
-2020-02-23,"Region 3","Ard",0
-2020-02-23,"Region 3","Azs",0
-2020-02-23,"Region 3","Azg",0
-2020-02-23,"Region 3","Kur",0
-2020-02-23,"Region 3","Zan",0
-2020-02-23,"Region 4","Mar",1
-2020-02-23,"Region 4","Ham",0
-2020-02-23,"Region 4","Khz",0
-2020-02-23,"Region 4","Krs",0
-2020-02-23,"Region 4","Lor",0
-2020-02-23,"Region 4","Ilm",0
-2020-02-23,"Region 5","Khr",0
-2020-02-23,"Region 5","Sis",0
-2020-02-23,"Region 5","Yaz",0
-2020-02-23,"Region 5","Khs",0
-2020-02-23,"Region 5","Ker",0
-2020-02-23,"Region 5","Khn",0
+2020-02-23,"Region 1","Tehran",4
+2020-02-23,"Region 1","Mazandaran",1
+2020-02-23,"Region 1","Alborz",0
+2020-02-23,"Region 1","Semnan",0
+2020-02-23,"Region 1","Golestan",0
+2020-02-23,"Region 1","Qazvin",0
+2020-02-23,"Region 2","Esfahan",0
+2020-02-23,"Region 2","Fars",0
+2020-02-23,"Region 2","Hormozgan",0
+2020-02-23,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-23,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-23,"Region 2","Bushehr",0
+2020-02-23,"Region 3","Gilan",2
+2020-02-23,"Region 3","Ardebil",0
+2020-02-23,"Region 3","East Azarbaijan",0
+2020-02-23,"Region 3","West Azarbaijan",0
+2020-02-23,"Region 3","Kordestan",0
+2020-02-23,"Region 3","Zanjan",0
+2020-02-23,"Region 4","Markazi",1
+2020-02-23,"Region 4","Hamadan",0
+2020-02-23,"Region 4","Khuzestan",0
+2020-02-23,"Region 4","Kermanshah",0
+2020-02-23,"Region 4","Lorestan",0
+2020-02-23,"Region 4","Ilam",0
+2020-02-23,"Region 5","Razavi Khorasan",0
+2020-02-23,"Region 5","Sistan and Baluchestan",0
+2020-02-23,"Region 5","Yazd",0
+2020-02-23,"Region 5","South Khorasan",0
+2020-02-23,"Region 5","Kerman",0
+2020-02-23,"Region 5","North Khorasan",0
 2020-02-24,"Region 1","Qom",8
-2020-02-24,"Region 1","Teh",3
-2020-02-24,"Region 1","Maz",0
-2020-02-24,"Region 1","Alb",0
-2020-02-24,"Region 1","Sem",0
-2020-02-24,"Region 1","Gol",0
-2020-02-24,"Region 1","Qaz",0
-2020-02-24,"Region 2","Esf",2
-2020-02-24,"Region 2","Frs",0
-2020-02-24,"Region 2","Hor",0
-2020-02-24,"Region 2","Koh",0
-2020-02-24,"Region 2","Cha",0
-2020-02-24,"Region 2","Bus",0
-2020-02-24,"Region 3","Gil",2
-2020-02-24,"Region 3","Ard",0
-2020-02-24,"Region 3","Azs",0
-2020-02-24,"Region 3","Azg",0
-2020-02-24,"Region 3","Kur",0
-2020-02-24,"Region 3","Zan",0
-2020-02-24,"Region 4","Mar",2
-2020-02-24,"Region 4","Ham",1
-2020-02-24,"Region 4","Khz",0
-2020-02-24,"Region 4","Krs",0
-2020-02-24,"Region 4","Lor",0
-2020-02-24,"Region 4","Ilm",0
-2020-02-24,"Region 5","Khr",0
-2020-02-24,"Region 5","Sis",0
-2020-02-24,"Region 5","Yaz",0
-2020-02-24,"Region 5","Khs",0
-2020-02-24,"Region 5","Ker",0
-2020-02-24,"Region 5","Khn",0
+2020-02-24,"Region 1","Tehran",3
+2020-02-24,"Region 1","Mazandaran",0
+2020-02-24,"Region 1","Alborz",0
+2020-02-24,"Region 1","Semnan",0
+2020-02-24,"Region 1","Golestan",0
+2020-02-24,"Region 1","Qazvin",0
+2020-02-24,"Region 2","Esfahan",2
+2020-02-24,"Region 2","Fars",0
+2020-02-24,"Region 2","Hormozgan",0
+2020-02-24,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-24,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-24,"Region 2","Bushehr",0
+2020-02-24,"Region 3","Gilan",2
+2020-02-24,"Region 3","Ardebil",0
+2020-02-24,"Region 3","East Azarbaijan",0
+2020-02-24,"Region 3","West Azarbaijan",0
+2020-02-24,"Region 3","Kordestan",0
+2020-02-24,"Region 3","Zanjan",0
+2020-02-24,"Region 4","Markazi",2
+2020-02-24,"Region 4","Hamadan",1
+2020-02-24,"Region 4","Khuzestan",0
+2020-02-24,"Region 4","Kermanshah",0
+2020-02-24,"Region 4","Lorestan",0
+2020-02-24,"Region 4","Ilam",0
+2020-02-24,"Region 5","Razavi Khorasan",0
+2020-02-24,"Region 5","Sistan and Baluchestan",0
+2020-02-24,"Region 5","Yazd",0
+2020-02-24,"Region 5","South Khorasan",0
+2020-02-24,"Region 5","Kerman",0
+2020-02-24,"Region 5","North Khorasan",0
 2020-02-25,"Region 1","Qom",16
-2020-02-25,"Region 1","Teh",8
-2020-02-25,"Region 1","Maz",2
-2020-02-25,"Region 1","Alb",2
-2020-02-25,"Region 1","Sem",0
-2020-02-25,"Region 1","Gol",0
-2020-02-25,"Region 1","Qaz",0
-2020-02-25,"Region 2","Esf",0
-2020-02-25,"Region 2","Frs",1
-2020-02-25,"Region 2","Hor",1
-2020-02-25,"Region 2","Koh",0
-2020-02-25,"Region 2","Cha",0
-2020-02-25,"Region 2","Bus",0
-2020-02-25,"Region 3","Gil",2
-2020-02-25,"Region 3","Ard",0
-2020-02-25,"Region 3","Azs",0
-2020-02-25,"Region 3","Azg",0
-2020-02-25,"Region 3","Kur",0
-2020-02-25,"Region 3","Zan",0
-2020-02-25,"Region 4","Mar",0
-2020-02-25,"Region 4","Ham",0
-2020-02-25,"Region 4","Khz",0
-2020-02-25,"Region 4","Krs",0
-2020-02-25,"Region 4","Lor",0
-2020-02-25,"Region 4","Ilm",0
-2020-02-25,"Region 5","Khr",1
-2020-02-25,"Region 5","Sis",0
-2020-02-25,"Region 5","Yaz",0
-2020-02-25,"Region 5","Khs",0
-2020-02-25,"Region 5","Ker",0
-2020-02-25,"Region 5","Khn",0
+2020-02-25,"Region 1","Tehran",8
+2020-02-25,"Region 1","Mazandaran",2
+2020-02-25,"Region 1","Alborz",2
+2020-02-25,"Region 1","Semnan",0
+2020-02-25,"Region 1","Golestan",0
+2020-02-25,"Region 1","Qazvin",0
+2020-02-25,"Region 2","Esfahan",0
+2020-02-25,"Region 2","Fars",1
+2020-02-25,"Region 2","Hormozgan",1
+2020-02-25,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-25,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-25,"Region 2","Bushehr",0
+2020-02-25,"Region 3","Gilan",2
+2020-02-25,"Region 3","Ardebil",0
+2020-02-25,"Region 3","East Azarbaijan",0
+2020-02-25,"Region 3","West Azarbaijan",0
+2020-02-25,"Region 3","Kordestan",0
+2020-02-25,"Region 3","Zanjan",0
+2020-02-25,"Region 4","Markazi",0
+2020-02-25,"Region 4","Hamadan",0
+2020-02-25,"Region 4","Khuzestan",0
+2020-02-25,"Region 4","Kermanshah",0
+2020-02-25,"Region 4","Lorestan",0
+2020-02-25,"Region 4","Ilam",0
+2020-02-25,"Region 5","Razavi Khorasan",1
+2020-02-25,"Region 5","Sistan and Baluchestan",0
+2020-02-25,"Region 5","Yazd",0
+2020-02-25,"Region 5","South Khorasan",0
+2020-02-25,"Region 5","Kerman",0
+2020-02-25,"Region 5","North Khorasan",0
 2020-02-26,"Region 1","Qom",15
-2020-02-26,"Region 1","Teh",4
-2020-02-26,"Region 1","Maz",1
-2020-02-26,"Region 1","Alb",0
-2020-02-26,"Region 1","Sem",1
-2020-02-26,"Region 1","Gol",0
-2020-02-26,"Region 1","Qaz",0
-2020-02-26,"Region 2","Esf",0
-2020-02-26,"Region 2","Frs",2
-2020-02-26,"Region 2","Hor",1
-2020-02-26,"Region 2","Koh",2
-2020-02-26,"Region 2","Cha",0
-2020-02-26,"Region 2","Bus",0
-2020-02-26,"Region 3","Gil",1
-2020-02-26,"Region 3","Ard",0
-2020-02-26,"Region 3","Azs",0
-2020-02-26,"Region 3","Azg",0
-2020-02-26,"Region 3","Kur",0
-2020-02-26,"Region 3","Zan",0
-2020-02-26,"Region 4","Mar",1
-2020-02-26,"Region 4","Ham",0
-2020-02-26,"Region 4","Khz",3
-2020-02-26,"Region 4","Krs",1
-2020-02-26,"Region 4","Lor",1
-2020-02-26,"Region 4","Ilm",0
-2020-02-26,"Region 5","Khr",0
-2020-02-26,"Region 5","Sis",2
-2020-02-26,"Region 5","Yaz",0
-2020-02-26,"Region 5","Khs",0
-2020-02-26,"Region 5","Ker",0
-2020-02-26,"Region 5","Khn",0
+2020-02-26,"Region 1","Tehran",4
+2020-02-26,"Region 1","Mazandaran",1
+2020-02-26,"Region 1","Alborz",0
+2020-02-26,"Region 1","Semnan",1
+2020-02-26,"Region 1","Golestan",0
+2020-02-26,"Region 1","Qazvin",0
+2020-02-26,"Region 2","Esfahan",0
+2020-02-26,"Region 2","Fars",2
+2020-02-26,"Region 2","Hormozgan",1
+2020-02-26,"Region 2","Kohgiluyeh and Buyer Ahmad",2
+2020-02-26,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-26,"Region 2","Bushehr",0
+2020-02-26,"Region 3","Gilan",1
+2020-02-26,"Region 3","Ardebil",0
+2020-02-26,"Region 3","East Azarbaijan",0
+2020-02-26,"Region 3","West Azarbaijan",0
+2020-02-26,"Region 3","Kordestan",0
+2020-02-26,"Region 3","Zanjan",0
+2020-02-26,"Region 4","Markazi",1
+2020-02-26,"Region 4","Hamadan",0
+2020-02-26,"Region 4","Khuzestan",3
+2020-02-26,"Region 4","Kermanshah",1
+2020-02-26,"Region 4","Lorestan",1
+2020-02-26,"Region 4","Ilam",0
+2020-02-26,"Region 5","Razavi Khorasan",0
+2020-02-26,"Region 5","Sistan and Baluchestan",2
+2020-02-26,"Region 5","Yazd",0
+2020-02-26,"Region 5","South Khorasan",0
+2020-02-26,"Region 5","Kerman",0
+2020-02-26,"Region 5","North Khorasan",0
 2020-02-27,"Region 1","Qom",7
-2020-02-27,"Region 1","Teh",38
-2020-02-27,"Region 1","Maz",7
-2020-02-27,"Region 1","Alb",3
-2020-02-27,"Region 1","Sem",3
-2020-02-27,"Region 1","Gol",0
-2020-02-27,"Region 1","Qaz",0
-2020-02-27,"Region 2","Esf",8
-2020-02-27,"Region 2","Frs",0
-2020-02-27,"Region 2","Hor",0
-2020-02-27,"Region 2","Koh",0
-2020-02-27,"Region 2","Cha",0
-2020-02-27,"Region 2","Bus",0
-2020-02-27,"Region 3","Gil",23
-2020-02-27,"Region 3","Ard",5
-2020-02-27,"Region 3","Azs",2
-2020-02-27,"Region 3","Azg",1
-2020-02-27,"Region 3","Kur",1
-2020-02-27,"Region 3","Zan",0
-2020-02-27,"Region 4","Mar",0
-2020-02-27,"Region 4","Ham",1
-2020-02-27,"Region 4","Khz",0
-2020-02-27,"Region 4","Krs",2
-2020-02-27,"Region 4","Lor",3
-2020-02-27,"Region 4","Ilm",0
-2020-02-27,"Region 5","Khr",1
-2020-02-27,"Region 5","Sis",0
-2020-02-27,"Region 5","Yaz",1
-2020-02-27,"Region 5","Khs",0
-2020-02-27,"Region 5","Ker",0
-2020-02-27,"Region 5","Khn",0
+2020-02-27,"Region 1","Tehran",38
+2020-02-27,"Region 1","Mazandaran",7
+2020-02-27,"Region 1","Alborz",3
+2020-02-27,"Region 1","Semnan",3
+2020-02-27,"Region 1","Golestan",0
+2020-02-27,"Region 1","Qazvin",0
+2020-02-27,"Region 2","Esfahan",8
+2020-02-27,"Region 2","Fars",0
+2020-02-27,"Region 2","Hormozgan",0
+2020-02-27,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-27,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-27,"Region 2","Bushehr",0
+2020-02-27,"Region 3","Gilan",23
+2020-02-27,"Region 3","Ardebil",5
+2020-02-27,"Region 3","East Azarbaijan",2
+2020-02-27,"Region 3","West Azarbaijan",1
+2020-02-27,"Region 3","Kordestan",1
+2020-02-27,"Region 3","Zanjan",0
+2020-02-27,"Region 4","Markazi",0
+2020-02-27,"Region 4","Hamadan",1
+2020-02-27,"Region 4","Khuzestan",0
+2020-02-27,"Region 4","Kermanshah",2
+2020-02-27,"Region 4","Lorestan",3
+2020-02-27,"Region 4","Ilam",0
+2020-02-27,"Region 5","Razavi Khorasan",1
+2020-02-27,"Region 5","Sistan and Baluchestan",0
+2020-02-27,"Region 5","Yazd",1
+2020-02-27,"Region 5","South Khorasan",0
+2020-02-27,"Region 5","Kerman",0
+2020-02-27,"Region 5","North Khorasan",0
 2020-02-28,"Region 1","Qom",16
-2020-02-28,"Region 1","Teh",64
-2020-02-28,"Region 1","Maz",9
-2020-02-28,"Region 1","Alb",3
-2020-02-28,"Region 1","Sem",2
-2020-02-28,"Region 1","Gol",2
-2020-02-28,"Region 1","Qaz",2
-2020-02-28,"Region 2","Esf",10
-2020-02-28,"Region 2","Frs",0
-2020-02-28,"Region 2","Hor",0
-2020-02-28,"Region 2","Koh",0
-2020-02-28,"Region 2","Cha",0
-2020-02-28,"Region 2","Bus",0
-2020-02-28,"Region 3","Gil",25
-2020-02-28,"Region 3","Ard",1
-2020-02-28,"Region 3","Azs",4
-2020-02-28,"Region 3","Azg",0
-2020-02-28,"Region 3","Kur",2
-2020-02-28,"Region 3","Zan",0
-2020-02-28,"Region 4","Mar",0
-2020-02-28,"Region 4","Ham",0
-2020-02-28,"Region 4","Khz",3
-2020-02-28,"Region 4","Krs",0
-2020-02-28,"Region 4","Lor",0
-2020-02-28,"Region 4","Ilm",0
-2020-02-28,"Region 5","Khr",0
-2020-02-28,"Region 5","Sis",0
-2020-02-28,"Region 5","Yaz",0
-2020-02-28,"Region 5","Khs",0
-2020-02-28,"Region 5","Ker",0
-2020-02-28,"Region 5","Khn",0
+2020-02-28,"Region 1","Tehran",64
+2020-02-28,"Region 1","Mazandaran",9
+2020-02-28,"Region 1","Alborz",3
+2020-02-28,"Region 1","Semnan",2
+2020-02-28,"Region 1","Golestan",2
+2020-02-28,"Region 1","Qazvin",2
+2020-02-28,"Region 2","Esfahan",10
+2020-02-28,"Region 2","Fars",0
+2020-02-28,"Region 2","Hormozgan",0
+2020-02-28,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-28,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-28,"Region 2","Bushehr",0
+2020-02-28,"Region 3","Gilan",25
+2020-02-28,"Region 3","Ardebil",1
+2020-02-28,"Region 3","East Azarbaijan",4
+2020-02-28,"Region 3","West Azarbaijan",0
+2020-02-28,"Region 3","Kordestan",2
+2020-02-28,"Region 3","Zanjan",0
+2020-02-28,"Region 4","Markazi",0
+2020-02-28,"Region 4","Hamadan",0
+2020-02-28,"Region 4","Khuzestan",3
+2020-02-28,"Region 4","Kermanshah",0
+2020-02-28,"Region 4","Lorestan",0
+2020-02-28,"Region 4","Ilam",0
+2020-02-28,"Region 5","Razavi Khorasan",0
+2020-02-28,"Region 5","Sistan and Baluchestan",0
+2020-02-28,"Region 5","Yazd",0
+2020-02-28,"Region 5","South Khorasan",0
+2020-02-28,"Region 5","Kerman",0
+2020-02-28,"Region 5","North Khorasan",0
 2020-02-29,"Region 1","Qom",21
-2020-02-29,"Region 1","Teh",52
-2020-02-29,"Region 1","Maz",12
-2020-02-29,"Region 1","Alb",8
-2020-02-29,"Region 1","Sem",4
-2020-02-29,"Region 1","Gol",22
-2020-02-29,"Region 1","Qaz",6
-2020-02-29,"Region 2","Esf",12
-2020-02-29,"Region 2","Frs",8
-2020-02-29,"Region 2","Hor",0
-2020-02-29,"Region 2","Koh",0
-2020-02-29,"Region 2","Cha",0
-2020-02-29,"Region 2","Bus",0
-2020-02-29,"Region 3","Gil",17
-2020-02-29,"Region 3","Ard",3
-2020-02-29,"Region 3","Azs",6
-2020-02-29,"Region 3","Azg",0
-2020-02-29,"Region 3","Kur",5
-2020-02-29,"Region 3","Zan",0
-2020-02-29,"Region 4","Mar",18
-2020-02-29,"Region 4","Ham",0
-2020-02-29,"Region 4","Khz",4
-2020-02-29,"Region 4","Krs",0
-2020-02-29,"Region 4","Lor",0
-2020-02-29,"Region 4","Ilm",1
-2020-02-29,"Region 5","Khr",0
-2020-02-29,"Region 5","Sis",1
-2020-02-29,"Region 5","Yaz",4
-2020-02-29,"Region 5","Khs",1
-2020-02-29,"Region 5","Ker",0
-2020-02-29,"Region 5","Khn",0
+2020-02-29,"Region 1","Tehran",52
+2020-02-29,"Region 1","Mazandaran",12
+2020-02-29,"Region 1","Alborz",8
+2020-02-29,"Region 1","Semnan",4
+2020-02-29,"Region 1","Golestan",22
+2020-02-29,"Region 1","Qazvin",6
+2020-02-29,"Region 2","Esfahan",12
+2020-02-29,"Region 2","Fars",8
+2020-02-29,"Region 2","Hormozgan",0
+2020-02-29,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-02-29,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-02-29,"Region 2","Bushehr",0
+2020-02-29,"Region 3","Gilan",17
+2020-02-29,"Region 3","Ardebil",3
+2020-02-29,"Region 3","East Azarbaijan",6
+2020-02-29,"Region 3","West Azarbaijan",0
+2020-02-29,"Region 3","Kordestan",5
+2020-02-29,"Region 3","Zanjan",0
+2020-02-29,"Region 4","Markazi",18
+2020-02-29,"Region 4","Hamadan",0
+2020-02-29,"Region 4","Khuzestan",4
+2020-02-29,"Region 4","Kermanshah",0
+2020-02-29,"Region 4","Lorestan",0
+2020-02-29,"Region 4","Ilam",1
+2020-02-29,"Region 5","Razavi Khorasan",0
+2020-02-29,"Region 5","Sistan and Baluchestan",1
+2020-02-29,"Region 5","Yazd",4
+2020-02-29,"Region 5","South Khorasan",1
+2020-02-29,"Region 5","Kerman",0
+2020-02-29,"Region 5","North Khorasan",0
 2020-03-01,"Region 1","Qom",30
-2020-03-01,"Region 1","Teh",170
-2020-03-01,"Region 1","Maz",11
-2020-03-01,"Region 1","Alb",31
-2020-03-01,"Region 1","Sem",3
-2020-03-01,"Region 1","Gol",0
-2020-03-01,"Region 1","Qaz",0
-2020-03-01,"Region 2","Esf",13
-2020-03-01,"Region 2","Frs",8
-2020-03-01,"Region 2","Hor",2
-2020-03-01,"Region 2","Koh",0
-2020-03-01,"Region 2","Cha",0
-2020-03-01,"Region 2","Bus",0
-2020-03-01,"Region 3","Gil",28
-2020-03-01,"Region 3","Ard",0
-2020-03-01,"Region 3","Azs",0
-2020-03-01,"Region 3","Azg",0
-2020-03-01,"Region 3","Kur",0
-2020-03-01,"Region 3","Zan",0
-2020-03-01,"Region 4","Mar",44
-2020-03-01,"Region 4","Ham",3
-2020-03-01,"Region 4","Khz",9
-2020-03-01,"Region 4","Krs",2
-2020-03-01,"Region 4","Lor",8
-2020-03-01,"Region 4","Ilm",1
-2020-03-01,"Region 5","Khr",17
-2020-03-01,"Region 5","Sis",2
-2020-03-01,"Region 5","Yaz",0
-2020-03-01,"Region 5","Khs",2
-2020-03-01,"Region 5","Ker",2
-2020-03-01,"Region 5","Khn",0
+2020-03-01,"Region 1","Tehran",170
+2020-03-01,"Region 1","Mazandaran",11
+2020-03-01,"Region 1","Alborz",31
+2020-03-01,"Region 1","Semnan",3
+2020-03-01,"Region 1","Golestan",0
+2020-03-01,"Region 1","Qazvin",0
+2020-03-01,"Region 2","Esfahan",13
+2020-03-01,"Region 2","Fars",8
+2020-03-01,"Region 2","Hormozgan",2
+2020-03-01,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-01,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-01,"Region 2","Bushehr",0
+2020-03-01,"Region 3","Gilan",28
+2020-03-01,"Region 3","Ardebil",0
+2020-03-01,"Region 3","East Azarbaijan",0
+2020-03-01,"Region 3","West Azarbaijan",0
+2020-03-01,"Region 3","Kordestan",0
+2020-03-01,"Region 3","Zanjan",0
+2020-03-01,"Region 4","Markazi",44
+2020-03-01,"Region 4","Hamadan",3
+2020-03-01,"Region 4","Khuzestan",9
+2020-03-01,"Region 4","Kermanshah",2
+2020-03-01,"Region 4","Lorestan",8
+2020-03-01,"Region 4","Ilam",1
+2020-03-01,"Region 5","Razavi Khorasan",17
+2020-03-01,"Region 5","Sistan and Baluchestan",2
+2020-03-01,"Region 5","Yazd",0
+2020-03-01,"Region 5","South Khorasan",2
+2020-03-01,"Region 5","Kerman",2
+2020-03-01,"Region 5","North Khorasan",0
 2020-03-02,"Region 1","Qom",0
-2020-03-02,"Region 1","Teh",0
-2020-03-02,"Region 1","Maz",0
-2020-03-02,"Region 1","Alb",0
-2020-03-02,"Region 1","Sem",0
-2020-03-02,"Region 1","Gol",0
-2020-03-02,"Region 1","Qaz",0
-2020-03-02,"Region 2","Esf",0
-2020-03-02,"Region 2","Frs",0
-2020-03-02,"Region 2","Hor",0
-2020-03-02,"Region 2","Koh",0
-2020-03-02,"Region 2","Cha",0
-2020-03-02,"Region 2","Bus",0
-2020-03-02,"Region 3","Gil",0
-2020-03-02,"Region 3","Ard",0
-2020-03-02,"Region 3","Azs",0
-2020-03-02,"Region 3","Azg",0
-2020-03-02,"Region 3","Kur",0
-2020-03-02,"Region 3","Zan",0
-2020-03-02,"Region 4","Mar",0
-2020-03-02,"Region 4","Ham",0
-2020-03-02,"Region 4","Khz",0
-2020-03-02,"Region 4","Krs",0
-2020-03-02,"Region 4","Lor",0
-2020-03-02,"Region 4","Ilm",0
-2020-03-02,"Region 5","Khr",0
-2020-03-02,"Region 5","Sis",0
-2020-03-02,"Region 5","Yaz",0
-2020-03-02,"Region 5","Khs",0
-2020-03-02,"Region 5","Ker",0
-2020-03-02,"Region 5","Khn",0
+2020-03-02,"Region 1","Tehran",0
+2020-03-02,"Region 1","Mazandaran",0
+2020-03-02,"Region 1","Alborz",0
+2020-03-02,"Region 1","Semnan",0
+2020-03-02,"Region 1","Golestan",0
+2020-03-02,"Region 1","Qazvin",0
+2020-03-02,"Region 2","Esfahan",0
+2020-03-02,"Region 2","Fars",0
+2020-03-02,"Region 2","Hormozgan",0
+2020-03-02,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-02,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-02,"Region 2","Bushehr",0
+2020-03-02,"Region 3","Gilan",0
+2020-03-02,"Region 3","Ardebil",0
+2020-03-02,"Region 3","East Azarbaijan",0
+2020-03-02,"Region 3","West Azarbaijan",0
+2020-03-02,"Region 3","Kordestan",0
+2020-03-02,"Region 3","Zanjan",0
+2020-03-02,"Region 4","Markazi",0
+2020-03-02,"Region 4","Hamadan",0
+2020-03-02,"Region 4","Khuzestan",0
+2020-03-02,"Region 4","Kermanshah",0
+2020-03-02,"Region 4","Lorestan",0
+2020-03-02,"Region 4","Ilam",0
+2020-03-02,"Region 5","Razavi Khorasan",0
+2020-03-02,"Region 5","Sistan and Baluchestan",0
+2020-03-02,"Region 5","Yazd",0
+2020-03-02,"Region 5","South Khorasan",0
+2020-03-02,"Region 5","Kerman",0
+2020-03-02,"Region 5","North Khorasan",0
 2020-03-03,"Region 1","Qom",0
-2020-03-03,"Region 1","Teh",0
-2020-03-03,"Region 1","Maz",0
-2020-03-03,"Region 1","Alb",0
-2020-03-03,"Region 1","Sem",0
-2020-03-03,"Region 1","Gol",0
-2020-03-03,"Region 1","Qaz",0
-2020-03-03,"Region 2","Esf",0
-2020-03-03,"Region 2","Frs",0
-2020-03-03,"Region 2","Hor",0
-2020-03-03,"Region 2","Koh",0
-2020-03-03,"Region 2","Cha",0
-2020-03-03,"Region 2","Bus",0
-2020-03-03,"Region 3","Gil",0
-2020-03-03,"Region 3","Ard",0
-2020-03-03,"Region 3","Azs",0
-2020-03-03,"Region 3","Azg",0
-2020-03-03,"Region 3","Kur",0
-2020-03-03,"Region 3","Zan",0
-2020-03-03,"Region 4","Mar",0
-2020-03-03,"Region 4","Ham",0
-2020-03-03,"Region 4","Khz",0
-2020-03-03,"Region 4","Krs",0
-2020-03-03,"Region 4","Lor",0
-2020-03-03,"Region 4","Ilm",0
-2020-03-03,"Region 5","Khr",0
-2020-03-03,"Region 5","Sis",0
-2020-03-03,"Region 5","Yaz",0
-2020-03-03,"Region 5","Khs",0
-2020-03-03,"Region 5","Ker",0
-2020-03-03,"Region 5","Khn",0
+2020-03-03,"Region 1","Tehran",0
+2020-03-03,"Region 1","Mazandaran",0
+2020-03-03,"Region 1","Alborz",0
+2020-03-03,"Region 1","Semnan",0
+2020-03-03,"Region 1","Golestan",0
+2020-03-03,"Region 1","Qazvin",0
+2020-03-03,"Region 2","Esfahan",0
+2020-03-03,"Region 2","Fars",0
+2020-03-03,"Region 2","Hormozgan",0
+2020-03-03,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-03,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-03,"Region 2","Bushehr",0
+2020-03-03,"Region 3","Gilan",0
+2020-03-03,"Region 3","Ardebil",0
+2020-03-03,"Region 3","East Azarbaijan",0
+2020-03-03,"Region 3","West Azarbaijan",0
+2020-03-03,"Region 3","Kordestan",0
+2020-03-03,"Region 3","Zanjan",0
+2020-03-03,"Region 4","Markazi",0
+2020-03-03,"Region 4","Hamadan",0
+2020-03-03,"Region 4","Khuzestan",0
+2020-03-03,"Region 4","Kermanshah",0
+2020-03-03,"Region 4","Lorestan",0
+2020-03-03,"Region 4","Ilam",0
+2020-03-03,"Region 5","Razavi Khorasan",0
+2020-03-03,"Region 5","Sistan and Baluchestan",0
+2020-03-03,"Region 5","Yazd",0
+2020-03-03,"Region 5","South Khorasan",0
+2020-03-03,"Region 5","Kerman",0
+2020-03-03,"Region 5","North Khorasan",0
 2020-03-04,"Region 1","Qom",101
-2020-03-04,"Region 1","Teh",253
-2020-03-04,"Region 1","Maz",9
-2020-03-04,"Region 1","Alb",19
-2020-03-04,"Region 1","Sem",8
-2020-03-04,"Region 1","Gol",9
-2020-03-04,"Region 1","Qaz",25
-2020-03-04,"Region 2","Esf",0
-2020-03-04,"Region 2","Frs",14
-2020-03-04,"Region 2","Hor",0
-2020-03-04,"Region 2","Koh",0
-2020-03-04,"Region 2","Cha",1
-2020-03-04,"Region 2","Bus",0
-2020-03-04,"Region 3","Gil",35
-2020-03-04,"Region 3","Ard",0
-2020-03-04,"Region 3","Azs",9
-2020-03-04,"Region 3","Azg",0
-2020-03-04,"Region 3","Kur",4
-2020-03-04,"Region 3","Zan",6
-2020-03-04,"Region 4","Mar",8
-2020-03-04,"Region 4","Ham",0
-2020-03-04,"Region 4","Khz",27
-2020-03-04,"Region 4","Krs",15
-2020-03-04,"Region 4","Lor",5
-2020-03-04,"Region 4","Ilm",7
-2020-03-04,"Region 5","Khr",8
-2020-03-04,"Region 5","Sis",8
-2020-03-04,"Region 5","Yaz",0
-2020-03-04,"Region 5","Khs",0
-2020-03-04,"Region 5","Ker",14
-2020-03-04,"Region 5","Khn",1
+2020-03-04,"Region 1","Tehran",253
+2020-03-04,"Region 1","Mazandaran",9
+2020-03-04,"Region 1","Alborz",19
+2020-03-04,"Region 1","Semnan",8
+2020-03-04,"Region 1","Golestan",9
+2020-03-04,"Region 1","Qazvin",25
+2020-03-04,"Region 2","Esfahan",0
+2020-03-04,"Region 2","Fars",14
+2020-03-04,"Region 2","Hormozgan",0
+2020-03-04,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-04,"Region 2","Chahar Mahall and Bakhtiari",1
+2020-03-04,"Region 2","Bushehr",0
+2020-03-04,"Region 3","Gilan",35
+2020-03-04,"Region 3","Ardebil",0
+2020-03-04,"Region 3","East Azarbaijan",9
+2020-03-04,"Region 3","West Azarbaijan",0
+2020-03-04,"Region 3","Kordestan",4
+2020-03-04,"Region 3","Zanjan",6
+2020-03-04,"Region 4","Markazi",8
+2020-03-04,"Region 4","Hamadan",0
+2020-03-04,"Region 4","Khuzestan",27
+2020-03-04,"Region 4","Kermanshah",15
+2020-03-04,"Region 4","Lorestan",5
+2020-03-04,"Region 4","Ilam",7
+2020-03-04,"Region 5","Razavi Khorasan",8
+2020-03-04,"Region 5","Sistan and Baluchestan",8
+2020-03-04,"Region 5","Yazd",0
+2020-03-04,"Region 5","South Khorasan",0
+2020-03-04,"Region 5","Kerman",14
+2020-03-04,"Region 5","North Khorasan",1
 2020-03-05,"Region 1","Qom",32
-2020-03-05,"Region 1","Teh",56
-2020-03-05,"Region 1","Maz",50
-2020-03-05,"Region 1","Alb",61
-2020-03-05,"Region 1","Sem",22
-2020-03-05,"Region 1","Gol",4
-2020-03-05,"Region 1","Qaz",31
-2020-03-05,"Region 2","Esf",118
-2020-03-05,"Region 2","Frs",19
-2020-03-05,"Region 2","Hor",2
-2020-03-05,"Region 2","Koh",0
-2020-03-05,"Region 2","Cha",8
-2020-03-05,"Region 2","Bus",3
-2020-03-05,"Region 3","Gil",80
-2020-03-05,"Region 3","Ard",17
-2020-03-05,"Region 3","Azs",10
-2020-03-05,"Region 3","Azg",5
-2020-03-05,"Region 3","Kur",6
-2020-03-05,"Region 3","Zan",7
-2020-03-05,"Region 4","Mar",31
-2020-03-05,"Region 4","Ham",6
-2020-03-05,"Region 4","Khz",1
-2020-03-05,"Region 4","Krs",0
-2020-03-05,"Region 4","Lor",11
-2020-03-05,"Region 4","Ilm",0
-2020-03-05,"Region 5","Khr",53
-2020-03-05,"Region 5","Sis",5
-2020-03-05,"Region 5","Yaz",0
-2020-03-05,"Region 5","Khs",9
-2020-03-05,"Region 5","Ker",0
-2020-03-05,"Region 5","Khn",2
+2020-03-05,"Region 1","Tehran",56
+2020-03-05,"Region 1","Mazandaran",50
+2020-03-05,"Region 1","Alborz",61
+2020-03-05,"Region 1","Semnan",22
+2020-03-05,"Region 1","Golestan",4
+2020-03-05,"Region 1","Qazvin",31
+2020-03-05,"Region 2","Esfahan",118
+2020-03-05,"Region 2","Fars",19
+2020-03-05,"Region 2","Hormozgan",2
+2020-03-05,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-05,"Region 2","Chahar Mahall and Bakhtiari",8
+2020-03-05,"Region 2","Bushehr",3
+2020-03-05,"Region 3","Gilan",80
+2020-03-05,"Region 3","Ardebil",17
+2020-03-05,"Region 3","East Azarbaijan",10
+2020-03-05,"Region 3","West Azarbaijan",5
+2020-03-05,"Region 3","Kordestan",6
+2020-03-05,"Region 3","Zanjan",7
+2020-03-05,"Region 4","Markazi",31
+2020-03-05,"Region 4","Hamadan",6
+2020-03-05,"Region 4","Khuzestan",1
+2020-03-05,"Region 4","Kermanshah",0
+2020-03-05,"Region 4","Lorestan",11
+2020-03-05,"Region 4","Ilam",0
+2020-03-05,"Region 5","Razavi Khorasan",53
+2020-03-05,"Region 5","Sistan and Baluchestan",5
+2020-03-05,"Region 5","Yazd",0
+2020-03-05,"Region 5","South Khorasan",9
+2020-03-05,"Region 5","Kerman",0
+2020-03-05,"Region 5","North Khorasan",2
 2020-03-06,"Region 1","Qom",137
-2020-03-06,"Region 1","Teh",61
-2020-03-06,"Region 1","Maz",180
-2020-03-06,"Region 1","Alb",129
-2020-03-06,"Region 1","Sem",54
-2020-03-06,"Region 1","Gol",67
-2020-03-06,"Region 1","Qaz",65
-2020-03-06,"Region 2","Esf",150
-2020-03-06,"Region 2","Frs",13
-2020-03-06,"Region 2","Hor",6
-2020-03-06,"Region 2","Koh",4
-2020-03-06,"Region 2","Cha",5
-2020-03-06,"Region 2","Bus",2
-2020-03-06,"Region 3","Gil",91
-2020-03-06,"Region 3","Ard",11
-2020-03-06,"Region 3","Azs",10
-2020-03-06,"Region 3","Azg",1
-2020-03-06,"Region 3","Kur",24
-2020-03-06,"Region 3","Zan",35
-2020-03-06,"Region 4","Mar",48
-2020-03-06,"Region 4","Ham",7
-2020-03-06,"Region 4","Khz",0
-2020-03-06,"Region 4","Krs",5
-2020-03-06,"Region 4","Lor",50
-2020-03-06,"Region 4","Ilm",2
-2020-03-06,"Region 5","Khr",0
-2020-03-06,"Region 5","Sis",2
-2020-03-06,"Region 5","Yaz",50
-2020-03-06,"Region 5","Khs",3
-2020-03-06,"Region 5","Ker",7
-2020-03-06,"Region 5","Khn",12
+2020-03-06,"Region 1","Tehran",61
+2020-03-06,"Region 1","Mazandaran",180
+2020-03-06,"Region 1","Alborz",129
+2020-03-06,"Region 1","Semnan",54
+2020-03-06,"Region 1","Golestan",67
+2020-03-06,"Region 1","Qazvin",65
+2020-03-06,"Region 2","Esfahan",150
+2020-03-06,"Region 2","Fars",13
+2020-03-06,"Region 2","Hormozgan",6
+2020-03-06,"Region 2","Kohgiluyeh and Buyer Ahmad",4
+2020-03-06,"Region 2","Chahar Mahall and Bakhtiari",5
+2020-03-06,"Region 2","Bushehr",2
+2020-03-06,"Region 3","Gilan",91
+2020-03-06,"Region 3","Ardebil",11
+2020-03-06,"Region 3","East Azarbaijan",10
+2020-03-06,"Region 3","West Azarbaijan",1
+2020-03-06,"Region 3","Kordestan",24
+2020-03-06,"Region 3","Zanjan",35
+2020-03-06,"Region 4","Markazi",48
+2020-03-06,"Region 4","Hamadan",7
+2020-03-06,"Region 4","Khuzestan",0
+2020-03-06,"Region 4","Kermanshah",5
+2020-03-06,"Region 4","Lorestan",50
+2020-03-06,"Region 4","Ilam",2
+2020-03-06,"Region 5","Razavi Khorasan",0
+2020-03-06,"Region 5","Sistan and Baluchestan",2
+2020-03-06,"Region 5","Yazd",50
+2020-03-06,"Region 5","South Khorasan",3
+2020-03-06,"Region 5","Kerman",7
+2020-03-06,"Region 5","North Khorasan",12
 2020-03-07,"Region 1","Qom",145
-2020-03-07,"Region 1","Teh",126
-2020-03-07,"Region 1","Maz",305
-2020-03-07,"Region 1","Alb",3
-2020-03-07,"Region 1","Sem",24
-2020-03-07,"Region 1","Gol",58
-2020-03-07,"Region 1","Qaz",2
-2020-03-07,"Region 2","Esf",96
-2020-03-07,"Region 2","Frs",14
-2020-03-07,"Region 2","Hor",11
-2020-03-07,"Region 2","Koh",0
-2020-03-07,"Region 2","Cha",2
-2020-03-07,"Region 2","Bus",3
-2020-03-07,"Region 3","Gil",70
-2020-03-07,"Region 3","Ard",1
-2020-03-07,"Region 3","Azs",2
-2020-03-07,"Region 3","Azg",22
-2020-03-07,"Region 3","Kur",2
-2020-03-07,"Region 3","Zan",2
-2020-03-07,"Region 4","Mar",37
-2020-03-07,"Region 4","Ham",11
-2020-03-07,"Region 4","Khz",1
-2020-03-07,"Region 4","Krs",4
-2020-03-07,"Region 4","Lor",27
-2020-03-07,"Region 4","Ilm",2
-2020-03-07,"Region 5","Khr",46
-2020-03-07,"Region 5","Sis",13
-2020-03-07,"Region 5","Yaz",24
-2020-03-07,"Region 5","Khs",0
-2020-03-07,"Region 5","Ker",15
-2020-03-07,"Region 5","Khn",8
+2020-03-07,"Region 1","Tehran",126
+2020-03-07,"Region 1","Mazandaran",305
+2020-03-07,"Region 1","Alborz",3
+2020-03-07,"Region 1","Semnan",24
+2020-03-07,"Region 1","Golestan",58
+2020-03-07,"Region 1","Qazvin",2
+2020-03-07,"Region 2","Esfahan",96
+2020-03-07,"Region 2","Fars",14
+2020-03-07,"Region 2","Hormozgan",11
+2020-03-07,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-07,"Region 2","Chahar Mahall and Bakhtiari",2
+2020-03-07,"Region 2","Bushehr",3
+2020-03-07,"Region 3","Gilan",70
+2020-03-07,"Region 3","Ardebil",1
+2020-03-07,"Region 3","East Azarbaijan",2
+2020-03-07,"Region 3","West Azarbaijan",22
+2020-03-07,"Region 3","Kordestan",2
+2020-03-07,"Region 3","Zanjan",2
+2020-03-07,"Region 4","Markazi",37
+2020-03-07,"Region 4","Hamadan",11
+2020-03-07,"Region 4","Khuzestan",1
+2020-03-07,"Region 4","Kermanshah",4
+2020-03-07,"Region 4","Lorestan",27
+2020-03-07,"Region 4","Ilam",2
+2020-03-07,"Region 5","Razavi Khorasan",46
+2020-03-07,"Region 5","Sistan and Baluchestan",13
+2020-03-07,"Region 5","Yazd",24
+2020-03-07,"Region 5","South Khorasan",0
+2020-03-07,"Region 5","Kerman",15
+2020-03-07,"Region 5","North Khorasan",8
 2020-03-08,"Region 1","Qom",17
-2020-03-08,"Region 1","Teh",266
-2020-03-08,"Region 1","Maz",14
-2020-03-08,"Region 1","Alb",2
-2020-03-08,"Region 1","Sem",37
-2020-03-08,"Region 1","Gol",13
-2020-03-08,"Region 1","Qaz",29
-2020-03-08,"Region 2","Esf",80
-2020-03-08,"Region 2","Frs",9
-2020-03-08,"Region 2","Hor",5
-2020-03-08,"Region 2","Koh",3
-2020-03-08,"Region 2","Cha",5
-2020-03-08,"Region 2","Bus",2
-2020-03-08,"Region 3","Gil",2
-2020-03-08,"Region 3","Ard",9
-2020-03-08,"Region 3","Azs",30
-2020-03-08,"Region 3","Azg",7
-2020-03-08,"Region 3","Kur",19
-2020-03-08,"Region 3","Zan",1
-2020-03-08,"Region 4","Mar",70
-2020-03-08,"Region 4","Ham",26
-2020-03-08,"Region 4","Khz",5
-2020-03-08,"Region 4","Krs",2
-2020-03-08,"Region 4","Lor",37
-2020-03-08,"Region 4","Ilm",0
-2020-03-08,"Region 5","Khr",19
-2020-03-08,"Region 5","Sis",0
-2020-03-08,"Region 5","Yaz",6
-2020-03-08,"Region 5","Khs",26
-2020-03-08,"Region 5","Ker",1
-2020-03-08,"Region 5","Khn",1
+2020-03-08,"Region 1","Tehran",266
+2020-03-08,"Region 1","Mazandaran",14
+2020-03-08,"Region 1","Alborz",2
+2020-03-08,"Region 1","Semnan",37
+2020-03-08,"Region 1","Golestan",13
+2020-03-08,"Region 1","Qazvin",29
+2020-03-08,"Region 2","Esfahan",80
+2020-03-08,"Region 2","Fars",9
+2020-03-08,"Region 2","Hormozgan",5
+2020-03-08,"Region 2","Kohgiluyeh and Buyer Ahmad",3
+2020-03-08,"Region 2","Chahar Mahall and Bakhtiari",5
+2020-03-08,"Region 2","Bushehr",2
+2020-03-08,"Region 3","Gilan",2
+2020-03-08,"Region 3","Ardebil",9
+2020-03-08,"Region 3","East Azarbaijan",30
+2020-03-08,"Region 3","West Azarbaijan",7
+2020-03-08,"Region 3","Kordestan",19
+2020-03-08,"Region 3","Zanjan",1
+2020-03-08,"Region 4","Markazi",70
+2020-03-08,"Region 4","Hamadan",26
+2020-03-08,"Region 4","Khuzestan",5
+2020-03-08,"Region 4","Kermanshah",2
+2020-03-08,"Region 4","Lorestan",37
+2020-03-08,"Region 4","Ilam",0
+2020-03-08,"Region 5","Razavi Khorasan",19
+2020-03-08,"Region 5","Sistan and Baluchestan",0
+2020-03-08,"Region 5","Yazd",6
+2020-03-08,"Region 5","South Khorasan",26
+2020-03-08,"Region 5","Kerman",1
+2020-03-08,"Region 5","North Khorasan",1
 2020-03-09,"Region 1","Qom",27
-2020-03-09,"Region 1","Teh",140
-2020-03-09,"Region 1","Maz",13
-2020-03-09,"Region 1","Alb",0
-2020-03-09,"Region 1","Sem",45
-2020-03-09,"Region 1","Gol",0
-2020-03-09,"Region 1","Qaz",40
-2020-03-09,"Region 2","Esf",37
-2020-03-09,"Region 2","Frs",29
-2020-03-09,"Region 2","Hor",17
-2020-03-09,"Region 2","Koh",0
-2020-03-09,"Region 2","Cha",5
-2020-03-09,"Region 2","Bus",1
-2020-03-09,"Region 3","Gil",28
-2020-03-09,"Region 3","Ard",22
-2020-03-09,"Region 3","Azs",22
-2020-03-09,"Region 3","Azg",29
-2020-03-09,"Region 3","Kur",3
-2020-03-09,"Region 3","Zan",15
-2020-03-09,"Region 4","Mar",54
-2020-03-09,"Region 4","Ham",0
-2020-03-09,"Region 4","Khz",4
-2020-03-09,"Region 4","Krs",11
-2020-03-09,"Region 4","Lor",7
-2020-03-09,"Region 4","Ilm",16
-2020-03-09,"Region 5","Khr",29
-2020-03-09,"Region 5","Sis",0
-2020-03-09,"Region 5","Yaz",3
-2020-03-09,"Region 5","Khs",-7
-2020-03-09,"Region 5","Ker",-5
-2020-03-09,"Region 5","Khn",10
+2020-03-09,"Region 1","Tehran",140
+2020-03-09,"Region 1","Mazandaran",13
+2020-03-09,"Region 1","Alborz",0
+2020-03-09,"Region 1","Semnan",45
+2020-03-09,"Region 1","Golestan",0
+2020-03-09,"Region 1","Qazvin",40
+2020-03-09,"Region 2","Esfahan",37
+2020-03-09,"Region 2","Fars",29
+2020-03-09,"Region 2","Hormozgan",17
+2020-03-09,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-09,"Region 2","Chahar Mahall and Bakhtiari",5
+2020-03-09,"Region 2","Bushehr",1
+2020-03-09,"Region 3","Gilan",28
+2020-03-09,"Region 3","Ardebil",22
+2020-03-09,"Region 3","East Azarbaijan",22
+2020-03-09,"Region 3","West Azarbaijan",29
+2020-03-09,"Region 3","Kordestan",3
+2020-03-09,"Region 3","Zanjan",15
+2020-03-09,"Region 4","Markazi",54
+2020-03-09,"Region 4","Hamadan",0
+2020-03-09,"Region 4","Khuzestan",4
+2020-03-09,"Region 4","Kermanshah",11
+2020-03-09,"Region 4","Lorestan",7
+2020-03-09,"Region 4","Ilam",16
+2020-03-09,"Region 5","Razavi Khorasan",29
+2020-03-09,"Region 5","Sistan and Baluchestan",0
+2020-03-09,"Region 5","Yazd",3
+2020-03-09,"Region 5","South Khorasan",-7
+2020-03-09,"Region 5","Kerman",-5
+2020-03-09,"Region 5","North Khorasan",10
 2020-03-10,"Region 1","Qom",39
-2020-03-10,"Region 1","Teh",169
-2020-03-10,"Region 1","Maz",253
-2020-03-10,"Region 1","Alb",32
-2020-03-10,"Region 1","Sem",1
-2020-03-10,"Region 1","Gol",4
-2020-03-10,"Region 1","Qaz",10
-2020-03-10,"Region 2","Esf",17
-2020-03-10,"Region 2","Frs",18
-2020-03-10,"Region 2","Hor",17
-2020-03-10,"Region 2","Koh",2
-2020-03-10,"Region 2","Cha",11
-2020-03-10,"Region 2","Bus",7
-2020-03-10,"Region 3","Gil",0
-2020-03-10,"Region 3","Ard",19
-2020-03-10,"Region 3","Azs",17
-2020-03-10,"Region 3","Azg",4
-2020-03-10,"Region 3","Kur",12
-2020-03-10,"Region 3","Zan",11
-2020-03-10,"Region 4","Mar",27
-2020-03-10,"Region 4","Ham",17
-2020-03-10,"Region 4","Khz",37
-2020-03-10,"Region 4","Krs",7
-2020-03-10,"Region 4","Lor",25
-2020-03-10,"Region 4","Ilm",25
-2020-03-10,"Region 5","Khr",39
-2020-03-10,"Region 5","Sis",6
-2020-03-10,"Region 5","Yaz",37
-2020-03-10,"Region 5","Khs",14
-2020-03-10,"Region 5","Ker",4
-2020-03-10,"Region 5","Khn",0
+2020-03-10,"Region 1","Tehran",169
+2020-03-10,"Region 1","Mazandaran",253
+2020-03-10,"Region 1","Alborz",32
+2020-03-10,"Region 1","Semnan",1
+2020-03-10,"Region 1","Golestan",4
+2020-03-10,"Region 1","Qazvin",10
+2020-03-10,"Region 2","Esfahan",17
+2020-03-10,"Region 2","Fars",18
+2020-03-10,"Region 2","Hormozgan",17
+2020-03-10,"Region 2","Kohgiluyeh and Buyer Ahmad",2
+2020-03-10,"Region 2","Chahar Mahall and Bakhtiari",11
+2020-03-10,"Region 2","Bushehr",7
+2020-03-10,"Region 3","Gilan",0
+2020-03-10,"Region 3","Ardebil",19
+2020-03-10,"Region 3","East Azarbaijan",17
+2020-03-10,"Region 3","West Azarbaijan",4
+2020-03-10,"Region 3","Kordestan",12
+2020-03-10,"Region 3","Zanjan",11
+2020-03-10,"Region 4","Markazi",27
+2020-03-10,"Region 4","Hamadan",17
+2020-03-10,"Region 4","Khuzestan",37
+2020-03-10,"Region 4","Kermanshah",7
+2020-03-10,"Region 4","Lorestan",25
+2020-03-10,"Region 4","Ilam",25
+2020-03-10,"Region 5","Razavi Khorasan",39
+2020-03-10,"Region 5","Sistan and Baluchestan",6
+2020-03-10,"Region 5","Yazd",37
+2020-03-10,"Region 5","South Khorasan",14
+2020-03-10,"Region 5","Kerman",4
+2020-03-10,"Region 5","North Khorasan",0
 2020-03-11,"Region 1","Qom",53
-2020-03-11,"Region 1","Teh",256
-2020-03-11,"Region 1","Maz",32
-2020-03-11,"Region 1","Alb",45
-2020-03-11,"Region 1","Sem",63
-2020-03-11,"Region 1","Gol",9
-2020-03-11,"Region 1","Qaz",27
-2020-03-11,"Region 2","Esf",170
-2020-03-11,"Region 2","Frs",19
-2020-03-11,"Region 2","Hor",10
-2020-03-11,"Region 2","Koh",0
-2020-03-11,"Region 2","Cha",1
-2020-03-11,"Region 2","Bus",0
-2020-03-11,"Region 3","Gil",5
-2020-03-11,"Region 3","Ard",1
-2020-03-11,"Region 3","Azs",29
-2020-03-11,"Region 3","Azg",27
-2020-03-11,"Region 3","Kur",6
-2020-03-11,"Region 3","Zan",22
-2020-03-11,"Region 4","Mar",31
-2020-03-11,"Region 4","Ham",7
-2020-03-11,"Region 4","Khz",17
-2020-03-11,"Region 4","Krs",8
-2020-03-11,"Region 4","Lor",9
-2020-03-11,"Region 4","Ilm",6
-2020-03-11,"Region 5","Khr",34
-2020-03-11,"Region 5","Sis",4
-2020-03-11,"Region 5","Yaz",23
-2020-03-11,"Region 5","Khs",15
-2020-03-11,"Region 5","Ker",18
-2020-03-11,"Region 5","Khn",11
+2020-03-11,"Region 1","Tehran",256
+2020-03-11,"Region 1","Mazandaran",32
+2020-03-11,"Region 1","Alborz",45
+2020-03-11,"Region 1","Semnan",63
+2020-03-11,"Region 1","Golestan",9
+2020-03-11,"Region 1","Qazvin",27
+2020-03-11,"Region 2","Esfahan",170
+2020-03-11,"Region 2","Fars",19
+2020-03-11,"Region 2","Hormozgan",10
+2020-03-11,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-11,"Region 2","Chahar Mahall and Bakhtiari",1
+2020-03-11,"Region 2","Bushehr",0
+2020-03-11,"Region 3","Gilan",5
+2020-03-11,"Region 3","Ardebil",1
+2020-03-11,"Region 3","East Azarbaijan",29
+2020-03-11,"Region 3","West Azarbaijan",27
+2020-03-11,"Region 3","Kordestan",6
+2020-03-11,"Region 3","Zanjan",22
+2020-03-11,"Region 4","Markazi",31
+2020-03-11,"Region 4","Hamadan",7
+2020-03-11,"Region 4","Khuzestan",17
+2020-03-11,"Region 4","Kermanshah",8
+2020-03-11,"Region 4","Lorestan",9
+2020-03-11,"Region 4","Ilam",6
+2020-03-11,"Region 5","Razavi Khorasan",34
+2020-03-11,"Region 5","Sistan and Baluchestan",4
+2020-03-11,"Region 5","Yazd",23
+2020-03-11,"Region 5","South Khorasan",15
+2020-03-11,"Region 5","Kerman",18
+2020-03-11,"Region 5","North Khorasan",11
 2020-03-12,"Region 1","Qom",42
-2020-03-12,"Region 1","Teh",303
-2020-03-12,"Region 1","Maz",79
-2020-03-12,"Region 1","Alb",74
-2020-03-12,"Region 1","Sem",40
-2020-03-12,"Region 1","Gol",25
-2020-03-12,"Region 1","Qaz",42
-2020-03-12,"Region 2","Esf",4
-2020-03-12,"Region 2","Frs",29
-2020-03-12,"Region 2","Hor",0
-2020-03-12,"Region 2","Koh",15
-2020-03-12,"Region 2","Cha",11
-2020-03-12,"Region 2","Bus",3
-2020-03-12,"Region 3","Gil",84
-2020-03-12,"Region 3","Ard",14
-2020-03-12,"Region 3","Azs",7
-2020-03-12,"Region 3","Azg",19
-2020-03-12,"Region 3","Kur",9
-2020-03-12,"Region 3","Zan",17
-2020-03-12,"Region 4","Mar",88
-2020-03-12,"Region 4","Ham",12
-2020-03-12,"Region 4","Khz",31
-2020-03-12,"Region 4","Krs",20
-2020-03-12,"Region 4","Lor",25
-2020-03-12,"Region 4","Ilm",7
-2020-03-12,"Region 5","Khr",29
-2020-03-12,"Region 5","Sis",6
-2020-03-12,"Region 5","Yaz",21
-2020-03-12,"Region 5","Khs",12
-2020-03-12,"Region 5","Ker",7
-2020-03-12,"Region 5","Khn",0
+2020-03-12,"Region 1","Tehran",303
+2020-03-12,"Region 1","Mazandaran",79
+2020-03-12,"Region 1","Alborz",74
+2020-03-12,"Region 1","Semnan",40
+2020-03-12,"Region 1","Golestan",25
+2020-03-12,"Region 1","Qazvin",42
+2020-03-12,"Region 2","Esfahan",4
+2020-03-12,"Region 2","Fars",29
+2020-03-12,"Region 2","Hormozgan",0
+2020-03-12,"Region 2","Kohgiluyeh and Buyer Ahmad",15
+2020-03-12,"Region 2","Chahar Mahall and Bakhtiari",11
+2020-03-12,"Region 2","Bushehr",3
+2020-03-12,"Region 3","Gilan",84
+2020-03-12,"Region 3","Ardebil",14
+2020-03-12,"Region 3","East Azarbaijan",7
+2020-03-12,"Region 3","West Azarbaijan",19
+2020-03-12,"Region 3","Kordestan",9
+2020-03-12,"Region 3","Zanjan",17
+2020-03-12,"Region 4","Markazi",88
+2020-03-12,"Region 4","Hamadan",12
+2020-03-12,"Region 4","Khuzestan",31
+2020-03-12,"Region 4","Kermanshah",20
+2020-03-12,"Region 4","Lorestan",25
+2020-03-12,"Region 4","Ilam",7
+2020-03-12,"Region 5","Razavi Khorasan",29
+2020-03-12,"Region 5","Sistan and Baluchestan",6
+2020-03-12,"Region 5","Yazd",21
+2020-03-12,"Region 5","South Khorasan",12
+2020-03-12,"Region 5","Kerman",7
+2020-03-12,"Region 5","North Khorasan",0
 2020-03-13,"Region 1","Qom",42
-2020-03-13,"Region 1","Teh",303
-2020-03-13,"Region 1","Maz",192
-2020-03-13,"Region 1","Alb",6
-2020-03-13,"Region 1","Sem",38
-2020-03-13,"Region 1","Gol",21
-2020-03-13,"Region 1","Qaz",12
-2020-03-13,"Region 2","Esf",110
-2020-03-13,"Region 2","Frs",33
-2020-03-13,"Region 2","Hor",4
-2020-03-13,"Region 2","Koh",0
-2020-03-13,"Region 2","Cha",0
-2020-03-13,"Region 2","Bus",0
-2020-03-13,"Region 3","Gil",71
-2020-03-13,"Region 3","Ard",15
-2020-03-13,"Region 3","Azs",97
-2020-03-13,"Region 3","Azg",25
-2020-03-13,"Region 3","Kur",9
-2020-03-13,"Region 3","Zan",20
-2020-03-13,"Region 4","Mar",48
-2020-03-13,"Region 4","Ham",10
-2020-03-13,"Region 4","Khz",15
-2020-03-13,"Region 4","Krs",15
-2020-03-13,"Region 4","Lor",25
-2020-03-13,"Region 4","Ilm",8
-2020-03-13,"Region 5","Khr",110
-2020-03-13,"Region 5","Sis",2
-2020-03-13,"Region 5","Yaz",46
-2020-03-13,"Region 5","Khs",0
-2020-03-13,"Region 5","Ker",12
-2020-03-13,"Region 5","Khn",0
+2020-03-13,"Region 1","Tehran",303
+2020-03-13,"Region 1","Mazandaran",192
+2020-03-13,"Region 1","Alborz",6
+2020-03-13,"Region 1","Semnan",38
+2020-03-13,"Region 1","Golestan",21
+2020-03-13,"Region 1","Qazvin",12
+2020-03-13,"Region 2","Esfahan",110
+2020-03-13,"Region 2","Fars",33
+2020-03-13,"Region 2","Hormozgan",4
+2020-03-13,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-13,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-13,"Region 2","Bushehr",0
+2020-03-13,"Region 3","Gilan",71
+2020-03-13,"Region 3","Ardebil",15
+2020-03-13,"Region 3","East Azarbaijan",97
+2020-03-13,"Region 3","West Azarbaijan",25
+2020-03-13,"Region 3","Kordestan",9
+2020-03-13,"Region 3","Zanjan",20
+2020-03-13,"Region 4","Markazi",48
+2020-03-13,"Region 4","Hamadan",10
+2020-03-13,"Region 4","Khuzestan",15
+2020-03-13,"Region 4","Kermanshah",15
+2020-03-13,"Region 4","Lorestan",25
+2020-03-13,"Region 4","Ilam",8
+2020-03-13,"Region 5","Razavi Khorasan",110
+2020-03-13,"Region 5","Sistan and Baluchestan",2
+2020-03-13,"Region 5","Yazd",46
+2020-03-13,"Region 5","South Khorasan",0
+2020-03-13,"Region 5","Kerman",12
+2020-03-13,"Region 5","North Khorasan",0
+2020-03-14,"Region 1","Qom",32
+2020-03-14,"Region 1","Tehran",347
+2020-03-14,"Region 1","Mazandaran",17
+2020-03-14,"Region 1","Alborz",134
+2020-03-14,"Region 1","Semnan",47
+2020-03-14,"Region 1","Golestan",0
+2020-03-14,"Region 1","Qazvin",47
+2020-03-14,"Region 2","Esfahan",155
+2020-03-14,"Region 2","Fars",11
+2020-03-14,"Region 2","Hormozgan",0
+2020-03-14,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-14,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-14,"Region 2","Bushehr",7
+2020-03-14,"Region 3","Gilan",113
+2020-03-14,"Region 3","Ardebil",33
+2020-03-14,"Region 3","East Azarbaijan",59
+2020-03-14,"Region 3","West Azarbaijan",31
+2020-03-14,"Region 3","Kordestan",5
+2020-03-14,"Region 3","Zanjan",31
+2020-03-14,"Region 4","Markazi",115
+2020-03-14,"Region 4","Hamadan",7
+2020-03-14,"Region 4","Khuzestan",48
+2020-03-14,"Region 4","Kermanshah",8
+2020-03-14,"Region 4","Lorestan",2
+2020-03-14,"Region 4","Ilam",6
+2020-03-14,"Region 5","Razavi Khorasan",30
+2020-03-14,"Region 5","Sistan and Baluchestan",2
+2020-03-14,"Region 5","Yazd",73
+2020-03-14,"Region 5","South Khorasan",4
+2020-03-14,"Region 5","Kerman",0
+2020-03-14,"Region 5","North Khorasan",1
