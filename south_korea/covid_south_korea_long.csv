@@ -13,6 +13,7 @@
 2020-01-20,"jeju","jeolla",0
 2020-01-20,"jeonbuk","jeolla",0
 2020-01-20,"jeonnam","jeolla",0
+2020-01-20,"quarantine_station",NA,0
 2020-01-20,"sejong","chungcheong",0
 2020-01-20,"seoul","gyeonggi",0
 2020-01-20,"ulsan","gyeongsang",0
@@ -30,6 +31,7 @@
 2020-01-24,"jeju","jeolla",0
 2020-01-24,"jeonbuk","jeolla",0
 2020-01-24,"jeonnam","jeolla",0
+2020-01-24,"quarantine_station",NA,0
 2020-01-24,"sejong","chungcheong",0
 2020-01-24,"seoul","gyeonggi",1
 2020-01-24,"ulsan","gyeongsang",0
@@ -47,6 +49,7 @@
 2020-01-26,"jeju","jeolla",0
 2020-01-26,"jeonbuk","jeolla",0
 2020-01-26,"jeonnam","jeolla",0
+2020-01-26,"quarantine_station",NA,0
 2020-01-26,"sejong","chungcheong",0
 2020-01-26,"seoul","gyeonggi",0
 2020-01-26,"ulsan","gyeongsang",0
@@ -64,6 +67,7 @@
 2020-01-27,"jeju","jeolla",0
 2020-01-27,"jeonbuk","jeolla",0
 2020-01-27,"jeonnam","jeolla",0
+2020-01-27,"quarantine_station",NA,0
 2020-01-27,"sejong","chungcheong",0
 2020-01-27,"seoul","gyeonggi",0
 2020-01-27,"ulsan","gyeongsang",0
@@ -81,6 +85,7 @@
 2020-01-30,"jeju","jeolla",0
 2020-01-30,"jeonbuk","jeolla",0
 2020-01-30,"jeonnam","jeolla",0
+2020-01-30,"quarantine_station",NA,0
 2020-01-30,"sejong","chungcheong",0
 2020-01-30,"seoul","gyeonggi",0
 2020-01-30,"ulsan","gyeongsang",0
@@ -98,6 +103,7 @@
 2020-01-31,"jeju","jeolla",0
 2020-01-31,"jeonbuk","jeolla",1
 2020-01-31,"jeonnam","jeolla",0
+2020-01-31,"quarantine_station",NA,0
 2020-01-31,"sejong","chungcheong",0
 2020-01-31,"seoul","gyeonggi",0
 2020-01-31,"ulsan","gyeongsang",0
@@ -115,6 +121,7 @@
 2020-02-01,"jeju","jeolla",0
 2020-02-01,"jeonbuk","jeolla",0
 2020-02-01,"jeonnam","jeolla",0
+2020-02-01,"quarantine_station",NA,0
 2020-02-01,"sejong","chungcheong",0
 2020-02-01,"seoul","gyeonggi",0
 2020-02-01,"ulsan","gyeongsang",0
@@ -132,6 +139,7 @@
 2020-02-02,"jeju","jeolla",0
 2020-02-02,"jeonbuk","jeolla",2
 2020-02-02,"jeonnam","jeolla",0
+2020-02-02,"quarantine_station",NA,0
 2020-02-02,"sejong","chungcheong",0
 2020-02-02,"seoul","gyeonggi",0
 2020-02-02,"ulsan","gyeongsang",0
@@ -149,6 +157,7 @@
 2020-02-04,"jeju","jeolla",0
 2020-02-04,"jeonbuk","jeolla",0
 2020-02-04,"jeonnam","jeolla",0
+2020-02-04,"quarantine_station",NA,0
 2020-02-04,"sejong","chungcheong",0
 2020-02-04,"seoul","gyeonggi",0
 2020-02-04,"ulsan","gyeongsang",0
@@ -166,6 +175,7 @@
 2020-02-05,"jeju","jeolla",0
 2020-02-05,"jeonbuk","jeolla",1
 2020-02-05,"jeonnam","jeolla",0
+2020-02-05,"quarantine_station",NA,0
 2020-02-05,"sejong","chungcheong",0
 2020-02-05,"seoul","gyeonggi",0
 2020-02-05,"ulsan","gyeongsang",0
@@ -183,6 +193,7 @@
 2020-02-06,"jeju","jeolla",0
 2020-02-06,"jeonbuk","jeolla",1
 2020-02-06,"jeonnam","jeolla",1
+2020-02-06,"quarantine_station",NA,0
 2020-02-06,"sejong","chungcheong",0
 2020-02-06,"seoul","gyeonggi",3
 2020-02-06,"ulsan","gyeongsang",0
@@ -200,6 +211,7 @@
 2020-02-07,"jeju","jeolla",0
 2020-02-07,"jeonbuk","jeolla",1
 2020-02-07,"jeonnam","jeolla",0
+2020-02-07,"quarantine_station",NA,0
 2020-02-07,"sejong","chungcheong",0
 2020-02-07,"seoul","gyeonggi",0
 2020-02-07,"ulsan","gyeongsang",0
@@ -217,6 +229,7 @@
 2020-02-09,"jeju","jeolla",0
 2020-02-09,"jeonbuk","jeolla",2
 2020-02-09,"jeonnam","jeolla",3
+2020-02-09,"quarantine_station",NA,0
 2020-02-09,"sejong","chungcheong",0
 2020-02-09,"seoul","gyeonggi",0
 2020-02-09,"ulsan","gyeongsang",0
@@ -234,6 +247,7 @@
 2020-02-11,"jeju","jeolla",0
 2020-02-11,"jeonbuk","jeolla",1
 2020-02-11,"jeonnam","jeolla",1
+2020-02-11,"quarantine_station",NA,0
 2020-02-11,"sejong","chungcheong",0
 2020-02-11,"seoul","gyeonggi",0
 2020-02-11,"ulsan","gyeongsang",0
@@ -251,6 +265,7 @@
 2020-02-16,"jeju","jeolla",0
 2020-02-16,"jeonbuk","jeolla",1
 2020-02-16,"jeonnam","jeolla",0
+2020-02-16,"quarantine_station",NA,0
 2020-02-16,"sejong","chungcheong",0
 2020-02-16,"seoul","gyeonggi",1
 2020-02-16,"ulsan","gyeongsang",0
@@ -268,6 +283,7 @@
 2020-02-17,"jeju","jeolla",0
 2020-02-17,"jeonbuk","jeolla",1
 2020-02-17,"jeonnam","jeolla",1
+2020-02-17,"quarantine_station",NA,0
 2020-02-17,"sejong","chungcheong",0
 2020-02-17,"seoul","gyeonggi",1
 2020-02-17,"ulsan","gyeongsang",0
@@ -285,6 +301,7 @@
 2020-02-18,"jeju","jeolla",0
 2020-02-18,"jeonbuk","jeolla",0
 2020-02-18,"jeonnam","jeolla",0
+2020-02-18,"quarantine_station",NA,0
 2020-02-18,"sejong","chungcheong",0
 2020-02-18,"seoul","gyeonggi",0
 2020-02-18,"ulsan","gyeongsang",0
@@ -302,6 +319,7 @@
 2020-02-19,"jeju","jeolla",0
 2020-02-19,"jeonbuk","jeolla",0
 2020-02-19,"jeonnam","jeolla",0
+2020-02-19,"quarantine_station",NA,0
 2020-02-19,"sejong","chungcheong",0
 2020-02-19,"seoul","gyeonggi",2
 2020-02-19,"ulsan","gyeongsang",0
@@ -319,6 +337,7 @@
 2020-02-20,"jeju","jeolla",0
 2020-02-20,"jeonbuk","jeolla",0
 2020-02-20,"jeonnam","jeolla",0
+2020-02-20,"quarantine_station",NA,0
 2020-02-20,"sejong","chungcheong",0
 2020-02-20,"seoul","gyeonggi",2
 2020-02-20,"ulsan","gyeongsang",0
@@ -336,6 +355,7 @@
 2020-02-21,"jeju","jeolla",1
 2020-02-21,"jeonbuk","jeolla",1
 2020-02-21,"jeonnam","jeolla",0
+2020-02-21,"quarantine_station",NA,0
 2020-02-21,"sejong","chungcheong",0
 2020-02-21,"seoul","gyeonggi",5
 2020-02-21,"ulsan","gyeongsang",0
@@ -353,6 +373,7 @@
 2020-02-22,"jeju","jeolla",1
 2020-02-22,"jeonbuk","jeolla",1
 2020-02-22,"jeonnam","jeolla",1
+2020-02-22,"quarantine_station",NA,0
 2020-02-22,"sejong","chungcheong",1
 2020-02-22,"seoul","gyeonggi",3
 2020-02-22,"ulsan","gyeongsang",1
@@ -370,6 +391,7 @@
 2020-02-23,"jeju","jeolla",1
 2020-02-23,"jeonbuk","jeolla",0
 2020-02-23,"jeonnam","jeolla",0
+2020-02-23,"quarantine_station",NA,0
 2020-02-23,"sejong","chungcheong",0
 2020-02-23,"seoul","gyeonggi",1
 2020-02-23,"ulsan","gyeongsang",0
@@ -387,6 +409,7 @@
 2020-02-24,"jeju","jeolla",0
 2020-02-24,"jeonbuk","jeolla",0
 2020-02-24,"jeonnam","jeolla",0
+2020-02-24,"quarantine_station",NA,0
 2020-02-24,"sejong","chungcheong",0
 2020-02-24,"seoul","gyeonggi",4
 2020-02-24,"ulsan","gyeongsang",1
@@ -404,6 +427,7 @@
 2020-02-25,"jeju","jeolla",0
 2020-02-25,"jeonbuk","jeolla",0
 2020-02-25,"jeonnam","jeolla",0
+2020-02-25,"quarantine_station",NA,0
 2020-02-25,"sejong","chungcheong",0
 2020-02-25,"seoul","gyeonggi",6
 2020-02-25,"ulsan","gyeongsang",1
@@ -421,6 +445,7 @@
 2020-02-26,"jeju","jeolla",0
 2020-02-26,"jeonbuk","jeolla",0
 2020-02-26,"jeonnam","jeolla",0
+2020-02-26,"quarantine_station",NA,0
 2020-02-26,"sejong","chungcheong",0
 2020-02-26,"seoul","gyeonggi",8
 2020-02-26,"ulsan","gyeongsang",1
@@ -438,6 +463,7 @@
 2020-02-27,"jeju","jeolla",0
 2020-02-27,"jeonbuk","jeolla",2
 2020-02-27,"jeonnam","jeolla",0
+2020-02-27,"quarantine_station",NA,0
 2020-02-27,"sejong","chungcheong",0
 2020-02-27,"seoul","gyeonggi",7
 2020-02-27,"ulsan","gyeongsang",5
@@ -455,6 +481,7 @@
 2020-02-28,"jeju","jeolla",0
 2020-02-28,"jeonbuk","jeolla",0
 2020-02-28,"jeonnam","jeolla",0
+2020-02-28,"quarantine_station",NA,0
 2020-02-28,"sejong","chungcheong",0
 2020-02-28,"seoul","gyeonggi",6
 2020-02-28,"ulsan","gyeongsang",3
@@ -472,6 +499,7 @@
 2020-02-29,"jeju","jeolla",0
 2020-02-29,"jeonbuk","jeolla",0
 2020-02-29,"jeonnam","jeolla",2
+2020-02-29,"quarantine_station",NA,0
 2020-02-29,"sejong","chungcheong",0
 2020-02-29,"seoul","gyeonggi",15
 2020-02-29,"ulsan","gyeongsang",3
@@ -489,6 +517,7 @@
 2020-03-01,"jeju","jeolla",0
 2020-03-01,"jeonbuk","jeolla",1
 2020-03-01,"jeonnam","jeolla",2
+2020-03-01,"quarantine_station",NA,0
 2020-03-01,"sejong","chungcheong",0
 2020-03-01,"seoul","gyeonggi",14
 2020-03-01,"ulsan","gyeongsang",3
@@ -506,6 +535,7 @@
 2020-03-02,"jeju","jeolla",1
 2020-03-02,"jeonbuk","jeolla",1
 2020-03-02,"jeonnam","jeolla",0
+2020-03-02,"quarantine_station",NA,0
 2020-03-02,"sejong","chungcheong",0
 2020-03-02,"seoul","gyeonggi",7
 2020-03-02,"ulsan","gyeongsang",0
@@ -523,6 +553,7 @@
 2020-03-03,"jeju","jeolla",0
 2020-03-03,"jeonbuk","jeolla",0
 2020-03-03,"jeonnam","jeolla",0
+2020-03-03,"quarantine_station",NA,0
 2020-03-03,"sejong","chungcheong",0
 2020-03-03,"seoul","gyeonggi",1
 2020-03-03,"ulsan","gyeongsang",3
@@ -540,6 +571,7 @@
 2020-03-04,"jeju","jeolla",1
 2020-03-04,"jeonbuk","jeolla",0
 2020-03-04,"jeonnam","jeolla",0
+2020-03-04,"quarantine_station",NA,0
 2020-03-04,"sejong","chungcheong",0
 2020-03-04,"seoul","gyeonggi",4
 2020-03-04,"ulsan","gyeongsang",0
@@ -557,6 +589,7 @@
 2020-03-05,"jeju","jeolla",0
 2020-03-05,"jeonbuk","jeolla",0
 2020-03-05,"jeonnam","jeolla",0
+2020-03-05,"quarantine_station",NA,0
 2020-03-05,"sejong","chungcheong",0
 2020-03-05,"seoul","gyeonggi",2
 2020-03-05,"ulsan","gyeongsang",0
@@ -574,6 +607,7 @@
 2020-03-06,"jeju","jeolla",0
 2020-03-06,"jeonbuk","jeolla",0
 2020-03-06,"jeonnam","jeolla",0
+2020-03-06,"quarantine_station",NA,0
 2020-03-06,"sejong","chungcheong",1
 2020-03-06,"seoul","gyeonggi",3
 2020-03-06,"ulsan","gyeongsang",0
@@ -591,6 +625,7 @@
 2020-03-07,"jeju","jeolla",0
 2020-03-07,"jeonbuk","jeolla",0
 2020-03-07,"jeonnam","jeolla",0
+2020-03-07,"quarantine_station",NA,0
 2020-03-07,"sejong","chungcheong",6
 2020-03-07,"seoul","gyeonggi",12
 2020-03-07,"ulsan","gyeongsang",1
@@ -608,6 +643,7 @@
 2020-03-08,"jeju","jeolla",0
 2020-03-08,"jeonbuk","jeolla",0
 2020-03-08,"jeonnam","jeolla",2
+2020-03-08,"quarantine_station",NA,0
 2020-03-08,"sejong","chungcheong",4
 2020-03-08,"seoul","gyeonggi",10
 2020-03-08,"ulsan","gyeongsang",0
@@ -625,6 +661,7 @@
 2020-03-09,"jeju","jeolla",0
 2020-03-09,"jeonbuk","jeolla",0
 2020-03-09,"jeonnam","jeolla",0
+2020-03-09,"quarantine_station",NA,0
 2020-03-09,"sejong","chungcheong",2
 2020-03-09,"seoul","gyeonggi",11
 2020-03-09,"ulsan","gyeongsang",0
@@ -642,6 +679,7 @@
 2020-03-10,"jeju","jeolla",0
 2020-03-10,"jeonbuk","jeolla",0
 2020-03-10,"jeonnam","jeolla",0
+2020-03-10,"quarantine_station",NA,0
 2020-03-10,"sejong","chungcheong",2
 2020-03-10,"seoul","gyeonggi",52
 2020-03-10,"ulsan","gyeongsang",1
@@ -659,6 +697,7 @@
 2020-03-11,"jeju","jeolla",0
 2020-03-11,"jeonbuk","jeolla",0
 2020-03-11,"jeonnam","jeolla",0
+2020-03-11,"quarantine_station",NA,0
 2020-03-11,"sejong","chungcheong",5
 2020-03-11,"seoul","gyeonggi",19
 2020-03-11,"ulsan","gyeongsang",0
@@ -676,6 +715,7 @@
 2020-03-12,"jeju","jeolla",0
 2020-03-12,"jeonbuk","jeolla",0
 2020-03-12,"jeonnam","jeolla",0
+2020-03-12,"quarantine_station",NA,0
 2020-03-12,"sejong","chungcheong",17
 2020-03-12,"seoul","gyeonggi",13
 2020-03-12,"ulsan","gyeongsang",2
@@ -693,6 +733,7 @@
 2020-03-13,"jeju","jeolla",0
 2020-03-13,"jeonbuk","jeolla",0
 2020-03-13,"jeonnam","jeolla",0
+2020-03-13,"quarantine_station",NA,0
 2020-03-13,"sejong","chungcheong",6
 2020-03-13,"seoul","gyeonggi",13
 2020-03-13,"ulsan","gyeongsang",0
@@ -710,6 +751,43 @@
 2020-03-14,"jeju","jeolla",0
 2020-03-14,"jeonbuk","jeolla",0
 2020-03-14,"jeonnam","jeolla",0
+2020-03-14,"quarantine_station",NA,0
 2020-03-14,"sejong","chungcheong",1
 2020-03-14,"seoul","gyeonggi",9
 2020-03-14,"ulsan","gyeongsang",1
+2020-03-15,"busan","gyeongsang",1
+2020-03-15,"chungbuk","chungcheong",0
+2020-03-15,"chungnam","chungcheong",0
+2020-03-15,"daegu","gyeongsang",35
+2020-03-15,"daejeon","chungcheong",0
+2020-03-15,"gangwon","gangwon",0
+2020-03-15,"gwangju","jeolla",0
+2020-03-15,"gyeongbuk","gyeongsang",7
+2020-03-15,"gyeonggi","gyeonggi",20
+2020-03-15,"gyeongnam","gyeongsang",0
+2020-03-15,"incheon","gyeonggi",0
+2020-03-15,"jeju","jeolla",0
+2020-03-15,"jeonbuk","jeolla",0
+2020-03-15,"jeonnam","jeolla",0
+2020-03-15,"quarantine_station",NA,4
+2020-03-15,"sejong","chungcheong",1
+2020-03-15,"seoul","gyeonggi",6
+2020-03-15,"ulsan","gyeongsang",0
+2020-03-16,"busan","gyeongsang",0
+2020-03-16,"chungbuk","chungcheong",0
+2020-03-16,"chungnam","chungcheong",0
+2020-03-16,"daegu","gyeongsang",32
+2020-03-16,"daejeon","chungcheong",0
+2020-03-16,"gangwon","gangwon",0
+2020-03-16,"gwangju","jeolla",0
+2020-03-16,"gyeongbuk","gyeongsang",5
+2020-03-16,"gyeonggi","gyeonggi",31
+2020-03-16,"gyeongnam","gyeongsang",1
+2020-03-16,"incheon","gyeonggi",1
+2020-03-16,"jeju","jeolla",0
+2020-03-16,"jeonbuk","jeolla",0
+2020-03-16,"jeonnam","jeolla",0
+2020-03-16,"quarantine_station",NA,2
+2020-03-16,"sejong","chungcheong",0
+2020-03-16,"seoul","gyeonggi",12
+2020-03-16,"ulsan","gyeongsang",0
