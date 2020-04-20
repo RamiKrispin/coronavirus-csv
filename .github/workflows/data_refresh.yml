@@ -1,0 +1,31 @@
+name: Data Refresh
+
+on: [push] 
+  #schedule:
+  #  - cron:  '0 */6 * * *'
+jobs:
+  build:
+    name: refresh csv files
+    runs-on: macOS-latest
+    steps:
+      - name: checkout_repo
+        uses: actions/checkout@v2
+      - name: set_R
+        uses: r-lib/actions/setup-r@master
+        with:
+          repository: ${{ github.repository }}
+          ref: 'master'
+          token: ${{ github.token }}
+          clean: 'true'
+          fetch-depth: '1'
+      - name: Data refresh
+        run: Rscript ./data_refresh.R
+      - name: Push updates
+        if: success()
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+              git config --global user.name 'RamiKrispin'
+              git config --global user.email 'ramkrisp@umich.edu'
+              git commit -am "Update italy total data"
+              git push
+          fi
