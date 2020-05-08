@@ -2,7 +2,7 @@ name: Data Refresh
 
 on:
   schedule:
-    - cron:  '45 0 * * *'
+    - cron:  '* */4 * * *'
 jobs:
   build:
     name: refresh csv files
